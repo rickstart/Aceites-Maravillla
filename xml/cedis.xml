@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cedis>
+	<cedi>
+		<id>cedi_1</id>
+		<nombre>Aguascalientes "87"</nombre>
+		<direccion>
+			<calle>Calle Enrique Olivares Santana Num. 201</calle>
+			<colonia>El Dorado Primera Sección</colonia>
+			<ciudad>Aguascalientes AGS. C.P. 20235</ciudad>
+		</direccion>
+		<email>aguascalientes@aceitera.com.mx</email>
+		<telefono>
+			<numero>01-4499-71-01-21</numero>
+			<ext>ext.(870)</ext>
+		</telefono>
+		<telefono>
+			<numero>01-4499-71-01-20</numero>
+			<ext>(fax) ext.(871)</ext>
+		</telefono>
+		<telefono>
+			<numero>01800-6335783</numero>
+			<ext>ext.(3087)</ext>
+		</telefono>
+	</cedi>
+	<cedi>
+		<id>cedi_2</id>
+		<nombre>León "75"</nombre>
+		<direccion>
+			<calle>Calle Simao da Veiga Num. 106-A</calle>
+			<colonia>Col. Plaza de Toros</colonia>
+			<ciudad>León Guanajuato C.P. 37450</ciudad>
+		</direccion>
+		<email>leon@aceitera.com.mx</email>
+		<telefono>
+			<numero>01-4777-15-32-77</numero>
+			<ext>ext.(750)</ext>
+		</telefono>
+		<telefono>
+			<numero>01-4777-15-29-06</numero>
+			<ext>(fax) ext.(751)</ext>
+		</telefono>
+		<telefono>
+			<numero>01-800-2765400</numero>
+			<ext>ext.(3075)</ext>
+		</telefono>
+	</cedi>
+	<cedi>
+		<id>cedi_3</id>
+		<nombre>Celaya "75"</nombre>
+		<direccion>
+			<calle>Silao Num. 224</calle>
+			<colonia>Fracc. El Puente</colonia>
+			<ciudad>Celaya Guanajuato C.P. 38100</ciudad>
+		</direccion>
+		<email>celaya@aceitera.com.mx</email>
+		<telefono>
+			<numero>01-46161-101-51</numero>
+			<ext>ext.(720)</ext>
+		</telefono>
+		<telefono>
+			<numero>01-46161-101-60</numero>
+			<ext>(fax) ext.(721)</ext>
+		</telefono>
+		<telefono>
+			<numero>01-800-1228846</numero>
+			<ext>ext.(3072)</ext>
+		</telefono>
+	</cedi>
+	<cedi>
+		<id>cedi_4</id>
+		<nombre>Queretaro "85"</nombre>
+		<direccion>
+			<calle>Priv. Pasteur Sur. 2-A</calle>
+			<colonia>Col. Mercurio</colonia>
+			<ciudad>Queretaro Qro C.P. 76040</ciudad>
+		</direccion>
+		<email>queretaro@aceitera.com.mx</email>
+		<telefono>
+			<numero>01-4422-24-26-70</numero>
+			<ext>ext.(851)</ext>
+		</telefono>
+		<telefono>
+			<numero>01-4422-12-92-54</numero>
+			<ext>(fax) ext.(850)</ext>
+		</telefono>
+		<telefono>
+			<numero>01-800-6339330</numero>
+			<ext>ext.(3085)</ext>
+		</telefono>
+	</cedi>
+	<cedi>
+		<id>cedi_5</id>
+		<nombre>Tampico "90"</nombre>
+		<direccion>
+			<calle>Cuarta Avenida Num. 421</calle>
+			<colonia>Col. Laguna de la Puerta</colonia>
+			<ciudad>Tampico Tamaulipas C.P. 89310</ciudad>
+		</direccion>
+		<email>tampico@aceitera.com.mx</email>
+		<telefono>
+			<numero>14-53-76</numero>
+			<ext>ext.(851)</ext>
+		</telefono>
+		<telefono>
+			<numero>14-53-76</numero>
+			<ext>(fax) ext.(901)</ext>
+		</telefono>
+		<telefono>
+			<numero>01-800-6337449</numero>
+			<ext>ext.(3090)</ext>
+		</telefono>
+	</cedi>
+	<cedi>
+		<id>cedi_6</id>
+		<nombre>Pachuca "77"</nombre>
+		<direccion>
+			<calle>Carretera Cubitos de las Bombas esq. Campo de Tiro Num.</calle>
+			<colonia>Col. Adolfo Lopez Mateos</colonia>
+			<ciudad>Pachuca Hgo C.P. 42000</ciudad>
+		</direccion>
+		<email>pachuca@aceitera.com.mx</email>
+		<telefono>
+			<numero>01-77171-358-22</numero>
+			<ext>ext.(771)</ext>
+		</telefono>
+		<telefono>
+			<numero>01-77171-848-48</numero>
+			<ext>(fax) ext.(770)</ext>
+		</telefono>
+		<telefono>
+			<numero>01-800-6335617</numero>
+			<ext>ext.(3077)</ext>
+		</telefono>
+	</cedi>
+	<cedi>
+		<id>cedi_7</id>
+		<nombre>Apizaco "92"</nombre>
+		<direccion>
+			<calle>Boulevard Emilio Sanchez Piedras Num. 708-A</calle>
+			<colonia>Col. Centro Apizaco</colonia>
+			<ciudad>Apizaco Tlaxcala C.P. 90300</ciudad>
+		</direccion>
+		<email>apizaco@aceitera.com.mx</email>
+		<telefono>
+			<numero>01241-4174240</numero>
+			<ext>ext.(920)</ext>
+		</telefono>
+		<telefono>
+			<numero>01241 4174290</numero>
+			<ext>(fax) ext.(921)</ext>
+		</telefono>
+		<telefono>
+			<numero>01-800-0036672</numero>
+			<ext>ext.(3092)</ext>
+		</telefono>
+	</cedi>
+	<cedi>
+		<id>cedi_8</id>
+		<nombre>Toluca "82"</nombre>
+		<direccion>
+			<calle>Zaragoza 20-B</calle>
+			<colonia>Col. Santa Ana Tlalpaltitlan</colonia>
+			<ciudad>Toluca Edo. de México C.P. 50160</ciudad>
+		</direccion>
+		<email>toluca@aceitera.com.mx</email>
+		<telefono>
+			<numero>01-722 2803764</numero>
+			<ext>(fax) ext.(821)</ext>
+		</telefono>
+		<telefono>
+			<numero>01800-6335768</numero>
+			<ext>ext.(3082)</ext>
+		</telefono>
+	</cedi>
+	<cedi>
+		<id>cedi_9</id>
+		<nombre>Cuautla "73"</nombre>
+		<direccion>
+			<calle>Av. Morelos Lt. 7 Mz. 12</calle>
+			<colonia>Parque Industrial Cuautla Cd. Ayala</colonia>
+			<ciudad>Edo. Morelos C.P. 62740</ciudad>
+		</direccion>
+		<email>cuautla@aceitera.com.mx</email>
+		<telefono>
+			<numero>01-73535-562-20</numero>
+			<ext>ext.(730)</ext>
+		</telefono>
+		<telefono>
+			<numero>01-73535-561-41</numero>
+			<ext>(fax) ext.(731)</ext>
+		</telefono>
+		<telefono>
+			<numero>01800-6335764</numero>
+			<ext>ext.(3073)</ext>
+		</telefono>
+	</cedi>
+	<cedi>
+		<id>cedi_10</id>
+		<nombre>Puebla "79"</nombre>
+		<direccion>
+			<calle>23 Sur Num. 2720</calle>
+			<colonia>Col. Volcanes</colonia>
+			<ciudad>Puebla Pue C.P. 72410</ciudad>
+		</direccion>
+		<email>puebla@aceitera.com.mx</email>
+		<telefono>
+			<numero>01-2222-40-10-33</numero>
+			<ext>ext.(790)</ext>
+		</telefono>
+		<telefono>
+			<numero>01-2222-40-37-90</numero>
+			<ext>(fax) ext.(791)</ext>
+		</telefono>
+		<telefono>
+			<numero>01800-6335673</numero>
+			<ext>ext.(3079)</ext>
+		</telefono>
+	</cedi>
+	<cedi>
+		<id>cedi_11</id>
+		<nombre>Tehuacan "93"</nombre>
+		<direccion>
+			<calle>Calle El Riego Num. 4009 Bodega 2</calle>
+			<colonia>Col. El Carmén</colonia>
+			<ciudad>Tehuacan Puebla C.P. 75760</ciudad>
+		</direccion>
+		<email>tehuacan@aceitera.com.mx</email>
+		<telefono>
+			<numero>01 -238-1073-687</numero>
+			<ext>ext.(930)</ext>
+		</telefono>
+		<telefono>
+			<numero>01-238-1073-688</numero>
+			<ext>(fax) ext.(931)</ext>
+		</telefono>
+		<telefono>
+			<numero>01800-</numero>
+			<ext>ext.(3093)</ext>
+		</telefono>
+	</cedi>
+	<cedi>
+		<id>cedi_12</id>
+		<nombre>Acapulco "71"</nombre>
+		<direccion>
+			<calle>Av. Lazaro Cardenas S/N</calle>
+			<colonia>Col. La Sabana</colonia>
+			<ciudad>Acapulco Guerrero C.P. 39903</ciudad>
+		</direccion>
+		<email>acapulco@aceitera.com.mx</email>
+		<telefono>
+			<numero>01-7444-68-4914</numero>
+			<ext>ext.(710)</ext>
+		</telefono>
+		<telefono>
+			<numero>01-7444-68-23-01  68-48-64</numero>
+			<ext>(fax) ext.(711)</ext>
+		</telefono>
+		<telefono>
+			<numero>01800-2233673</numero>
+			<ext>ext.(3071)</ext>
+		</telefono>
+	</cedi>
+	<cedi>
+		<id>cedi_13</id>
+		<nombre>San Luis Potosi "80"</nombre>
+		<direccion>
+			<calle>Av. San Jose de Galvez Num. 535</calle>
+			<colonia>Fracc. Estrella Ote</colonia>
+			<ciudad>S.L.P C.P. 78390</ciudad>
+		</direccion>
+		<email>sanluis@aceitera.com.mx</email>
+		<telefono>
+			<numero>01-44488-21-26-85</numero>
+			<ext>ext.(800)</ext>
+		</telefono>
+		<telefono>
+			<numero>01-44488-21-16-16</numero>
+			<ext>(fax) ext.(801)</ext>
+		</telefono>
+		<telefono>
+			<numero>01800-6335749</numero>
+			<ext>ext.(3080)</ext>
+		</telefono>
+	</cedi>
+	<cedi>
+		<id>cedi_14</id>
+		<nombre>Oaxaca "89"</nombre>
+		<direccion>
+			<calle>Calle Ferrocarril Norte Num. 1305</calle>
+			<colonia>Col. Exmarquezado</colonia>
+			<ciudad>Oaxaca, Oax C.P. 68030</ciudad>
+		</direccion>
+		<email>oaxaca@aceitera.com.mx</email>
+		<telefono>
+			<numero>01-95151-88-116</numero>
+			<ext>ext.(890)</ext>
+		</telefono>
+		<telefono>
+			<numero>01-95151-88-122</numero>
+			<ext>(fax) ext.(891)</ext>
+		</telefono>
+		<telefono>
+			<numero>01800-6335782</numero>
+			<ext>ext.(3089)</ext>
+		</telefono>
+	</cedi>
+	<cedi>
+		<id>cedi_15</id>
+		<nombre>Juchitan "95"</nombre>
+		<direccion>
+			<calle>Av. Juarez Cerrada Felipe Lopez Lena S/N</calle>
+			<colonia>4TA Sección</colonia>
+			<ciudad>Juchitan de Zaragoza, Oaxaca C.P. 70000</ciudad>
+		</direccion>
+		<email>juchitan@aceitera.com.mx</email>
+		<telefono>
+			<numero>01-971-712-18-87</numero>
+			<ext>ext.(950)</ext>
+		</telefono>
+		<telefono>
+			<numero>01-971-712-18-86</numero>
+			<ext>(fax) ext.(951)</ext>
+		</telefono>
+		<telefono>
+			<numero>01800-2235372</numero>
+			<ext>ext.(3095)</ext>
+		</telefono>
+	</cedi>
+	<cedi>
+		<id>cedi_16</id>
+		<nombre>Villa Hermosa "84"</nombre>
+		<direccion>
+			<calle>Mariano Abasolo Num. 633</calle>
+			<colonia>Col. Atasta</colonia>
+			<ciudad>Villa Hermosa, Tab C.P. 86100</ciudad>
+		</direccion>
+		<email>villah@aceitera.com.mx</email>
+		<telefono>
+			<numero>01-9933-54-22-60</numero>
+			<ext>ext.(840)</ext>
+		</telefono>
+		<telefono>
+			<numero>01-9933-54-40-65</numero>
+			<ext>(fax) ext.(841)</ext>
+		</telefono>
+		<telefono>
+			<numero>01800-6335772</numero>
+			<ext>ext.(3084)</ext>
+		</telefono>
+	</cedi>
+	<cedi>
+		<id>cedi_17</id>
+		<nombre>Poza Rica "78"</nombre>
+		<direccion>
+			<calle>Calle Tuxpan Esq. Tecolutla</calle>
+			<colonia>Col. Ejido San Miguel Mecatepec</colonia>
+			<ciudad>Tihuatlan, Ver C.P. 92902</ciudad>
+		</direccion>
+		<email>pozarica@aceitera.com.mx</email>
+		<telefono>
+			<numero>01-78282-2-00-27</numero>
+			<ext>ext.(780)</ext>
+		</telefono>
+		<telefono>
+			<numero>01-78282-222-04</numero>
+			<ext>(fax) ext.(781)</ext>
+		</telefono>
+		<telefono>
+			<numero>01800-6335668</numero>
+			<ext>ext.(3078)</ext>
+		</telefono>
+	</cedi>
+	<cedi>
+		<id>cedi_18</id>
+		<nombre>Jalapa "74"</nombre>
+		<direccion>
+			<calle>Av. Rafael Valenzuela Num. 12</calle>
+			<colonia>Col. Rafael Lucio</colonia>
+			<ciudad>Jalapa, Veracruz C.P. 91110</ciudad>
+		</direccion>
+		<email>jalapa@aceitera.com.mx</email>
+		<telefono>
+			<numero>01-2288-15-29-00</numero>
+			<ext>ext.(740)</ext>
+		</telefono>
+		<telefono>
+			<numero>01-2288-14-35-98</numero>
+			<ext>(fax) ext.(741)</ext>
+		</telefono>
+		<telefono>
+			<numero>01800-6335457</numero>
+			<ext>ext.(3074)</ext>
+		</telefono>
+	</cedi>
+	<cedi>
+		<id>cedi_19</id>
+		<nombre>Orizaba "76"</nombre>
+		<direccion>
+			<calle>Sur 11 Num. 1415 Int. 1</calle>
+			<colonia>Col. Terricola</colonia>
+			<ciudad>Orizaba, Veracruz C.P. 94380</ciudad>
+		</direccion>
+		<email>orizaba@aceitera.com.mx</email>
+		<telefono>
+			<numero>01-27272-461-99</numero>
+			<ext>ext.(760)</ext>
+		</telefono>
+		<telefono>
+			<numero>01-27272-415-42</numero>
+			<ext>(fax) ext.(761)</ext>
+		</telefono>
+		<telefono>
+			<numero>01800-4004673</numero>
+			<ext>ext.(3076)</ext>
+		</telefono>
+	</cedi>
+	<cedi>
+		<id>cedi_20</id>
+		<nombre>Veracruz "83"</nombre>
+		<direccion>
+			<calle>Ejercito Mexicano Num. 1007 Bod. 9</calle>
+			<colonia>Fracc. El Jobo</colonia>
+			<ciudad>Veracruz, Ver C.P. 91940</ciudad>
+		</direccion>
+		<email>veracruz@aceitera.com.mx</email>
+		<telefono>
+			<numero>01-22-91-30-88-45</numero>
+			<ext>ext.(830)</ext>
+		</telefono>
+		<telefono>
+			<numero>01-22-91-30-91-03</numero>
+			<ext>(fax) ext.(831)</ext>
+		</telefono>
+		<telefono>
+			<numero>01800-</numero>
+			<ext>ext.(3083)</ext>
+		</telefono>
+	</cedi>
+	<cedi>
+		<id>cedi_21</id>
+		<nombre>Acayucan "81"</nombre>
+		<direccion>
+			<calle>Carret. Transistmica Km. 1 S/N</calle>
+			<colonia>Barrio Nuevo</colonia>
+			<ciudad>Acayucan, Ver C.P. 96070</ciudad>
+		</direccion>
+		<email>tblanca@aceitera.com.mx</email>
+		<telefono>
+			<numero>01-24-24-55284</numero>
+			<ext>ext.(810)</ext>
+		</telefono>
+		<telefono>
+			<numero>01-24-24-55355</numero>
+			<ext>(fax) ext.(811)</ext>
+		</telefono>
+		<telefono>
+			<numero>01800</numero>
+			<ext>ext.(3081)</ext>
+		</telefono>
+	</cedi>
+</cedis>

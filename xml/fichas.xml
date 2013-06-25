@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fichas>
+	<ficha>
+		<id>producto_1</id>
+		<urlimg>images/productos/fichas/aceites_maravilla_500ml.jpg</urlimg>
+		<producto>Aceite marca Maravilla.</producto>
+		<presentacion>Botella PET de 500 ml</presentacion>
+		<genero>Aceite vegetal.</genero>
+		<descripcion>Producto elaborado a partir de aceite de canola 100% proveniente de las especies (Brassica Napus y Brassica Rapa) y que contiene menos del 2% de ácido erúcico (ácido 13 docosenóico C22H42O2) y/o de sus variedades bio-tecnológicas que son aptas para el consumo humano; el cual, es sometido a los procesos de refinación, blanqueo  y deodorización al alto vacío.</descripcion>
+		<ingredientes>99.995% Aceite comestible puro de canola.</ingredientes> 
+		<ingredientes>0.005% Antioxodante TBHQ.</ingredientes>
+		<usos>Ampliamente recomendado en uso domestico o panificacion o restaurante o en todo tipo de freido, conservas, aderesos o industrial.</usos>
+		<propiedades>
+			<parrafo>
+				El aceite de canola tiene un bajo contenido de ácidos grasos saturados. De hecho, tiene menos grasas saturadas que cualquier aceite que se encuentre en el mercado actualmente.
+			</parrafo>
+			<parrafo>
+				El aceite de canola es rico en grasas monoinsaturadas. Así mismo, contiene dos ácidos grasos esenciales, el ácido linoleico (un ácido graso omega-6) y el ácido alfa linolénico (un ácido graso omega-3). Estos ácidos grasos deben obtenerse de los alimentos porque nuestro cuerpo no los pueden producir. Las grasas esenciales tienen un papel importante en el crecimiento, la reproducción y la visión; ayudan a mantener la piel saludable; y actúan en el metabolismo del colesterol.
+			</parrafo>
+			<parrafo>
+		 		Los consumidores de hoy que llevan una vida muy activa, quieren alimentos con buen sabor que no afecten su salud. Por ello, si de aplicaciones hablamos. El aceite de canola es multifuncional, ya que goza de una alta tolerancia al calor, de un sabor neutro y de una textura suave y ligera. Se puede utilizar en platillos salteados, fritos y horneados, además, en marinadas, aderezos para ensaladas, salsas y fondues. Al utilizarse en lugar de grasas sólidas u otros tipos de aceites vegetales, el aceite de canola aporta a los productos horneados un menor porcentaje de grasas saturadas.
+		 	</parrafo>
+		 	<parrafo>
+		 		Por su origen vegetal no contiene colesterol.
+		 	</parrafo>
+		 	<parrafo>
+		 		El aceite de canola es una buena fuente de vitamina E. La cual, es un antioxidante natural.
+		 	</parrafo>
+		</propiedades>
+	</ficha>
+	<ficha>
+		<id>producto_2</id>
+		<urlimg>images/productos/fichas/aceites_maravilla_1lt.jpg</urlimg>
+		<producto>Aceite marca Maravilla.</producto>
+		<presentacion>Botella PET de 1L.</presentacion>
+		<genero>Aceite vegetal.</genero>
+		<descripcion>Producto elaborado a partir de aceite de canola 100% proveniente de las especies (Brassica Napus y Brassica Rapa) y contiene menos del 2% de ácido erúcico (ácido 13 docosenóico CH22H4202) y/o de sus variedades bio-tecnológicas que son aptas para el consumo humano; el cual, es sometido a los procesos de refinación, blanqueo y deodorización al alto vacío.</descripcion>
+		<ingredientes>99.995% Aceite comestible puro de canola.</ingredientes> 
+		<ingredientes>0.005% Antioxodante TBHQ.</ingredientes>
+		<usos>Frituras en general, repostería y uso casero.</usos>
+		<propiedades>
+			<parrafo>
+				El aceite de canola tiene un bajo contenido de ácidos grasos saturados.De hecho, tiene menos grasas saturadas que cualquier aceite que se encuentre en el mercado actualmente.
+			</parrafo>
+			<parrafo>
+				El aceite de canola es rico en grasas monoinsaturadas. Así mismo, contiene dos ácidos grasos esenciales el ácido linoléico (un ácido graso omega-6) y el ácido alfa linoléico (un ácido graso omega-3).Estos ácidos grasos dben obtenerse de los alimentospor que nuestro cuerpo no los puede producir. Las grasas esenciales tienen un papel importante en el crecimiento, la reproducción y la visión; ayudan a tener la piel saludable; y actúan en el metabolismo del colesterol.
+			</parrafo>
+			<parrafo>
+		 		Los consumidores de hoy que llevan una vida muy activa, quieren alimentos con buen sabor que no afecten su salud. Por ello, si de aplicaciones hablamos. El aceite de canola es multifuncional, ya que goza de una alta tolerancia al calor, de un sabor neutro y de una textura suave y ligera. Se puede utilizar en platillos salteados, fritos y horneados, además, en marinadas, aderezos para ensaladas, salsas y fondues.
+		 	</parrafo>
+		 	<parrafo>
+		 		Por su origen vegetal no contiene colesterol.
+		 	</parrafo>
+		 	<parrafo>
+		 		El aceite de canola es una buena fuente de vitamina E. La cual, es un antioxidante natural.
+		 	</parrafo>
+
+		</propiedades>
+	</ficha>
+	<ficha>
+		<id>producto_3</id>
+		<urlimg>images/productos/fichas/aceites_maravilla_5lt.jpg</urlimg>
+		<producto>Aceite marca Maravilla.</producto>
+		<presentacion>Garrafa de 5 L</presentacion>
+		<genero>Aceite vegetal.</genero>
+		<descripcion>Producto elaborado a partir de aceite de canola 100% proveniente de las especies (Brassica Napus y Brassica Rapa) y contiene menos del 2% de ácido erúcico (ácido 13 docosenóico CH22H4202) y/o de sus variedades bio-tecnológicas que son aptas para el consumo humano; el cual, es sometido a los procesos de refinación, blanqueo y deodorización al alto vacío.</descripcion>
+		<ingredientes>99.995% Aceite comestible puro de canola.</ingredientes> 
+		<ingredientes>0.005% Antioxodante TBHQ.</ingredientes>
+		<usos>Ampliamente recomendado en uso domestico o panificacion o restaurante o en todo tipo de freido, conservas, aderesos o industrial.</usos>
+		<propiedades>
+			<parrafo>
+				El aceite de canola tiene un bajo contenido de ácidos grasos saturados.De hecho, tiene menos grasas saturadas que cualquier aceite que se encuentre en el mercado actualmente.
+			</parrafo>
+			<parrafo>
+				El aceite de canola es rico en grasas monoinsaturadas. Así mismo, contiene dos ácidos grasos esenciales el ácido linoléico (un ácido graso omega-6) y el ácido alfa linoléico (un ácido graso omega-3).Estos ácidos grasos dben obtenerse de los alimentospor que nuestro cuerpo no los puede producir. Las grasas esenciales tienen un papel importante en el crecimiento, la reproducción y la visión; ayudan a tener la piel saludable; y actúan en el metabolismo del colesterol.
+			</parrafo>
+			<parrafo>
+		 		Los consumidores de hoy que llevan una vida muy activa, quieren alimentos con buen sabor que no afecten su salud. Por ello, si de aplicaciones hablamos. El aceite de canola es multifuncional, ya que goza de una alta tolerancia al calor, de un sabor neutro y de una textura suave y ligera. Se puede utilizar en platillos salteados, fritos y horneados, además, en marinadas, aderezos para ensaladas, salsas y fondues.
+		 	</parrafo>
+		 	<parrafo>
+		 		Por su origen vegetal no contiene colesterol.
+		 	</parrafo>
+		 	<parrafo>
+		 		El aceite de canola es una buena fuente de vitamina E. La cual, es un antioxidante natural.
+		 	</parrafo>
+		</propiedades>
+	</ficha>
+	<ficha>
+		<id>producto_4</id>
+		<urlimg>images/productos/fichas/aceites_maravilla_20lt.jpg</urlimg>
+		<producto>Aceite marca Maravilla.</producto>
+		<presentacion>Bidon de 20 L</presentacion>
+		<genero>Aceite vegetal.</genero>
+		<descripcion>Producto elaborado a partir de aceite de canola 100% proveniente de las especies (Brassica Napus y Brassica Rapa) y contiene menos del 2% de ácido erúcico (ácido 13 docosenóico CH22H4202) y/o de sus variedades bio-tecnológicas que son aptas para el consumo humano; el cual, es sometido a los procesos de refinación, blanqueo y deodorización al alto vacío.</descripcion>
+		<ingredientes>99.995% Aceite comestible puro de canola.</ingredientes> 
+		<ingredientes>0.005% Antioxodante TBHQ.</ingredientes>
+		<usos>Ampliamente recomendado en uso domestico o panificacion o restaurante o en todo tipo de freido, conservas, aderesos o industrial.</usos>
+		<propiedades>
+			<parrafo>
+				El aceite de canola tiene un bajo contenido de ácidos grasos saturados.De hecho, tiene menos grasas saturadas que cualquier aceite que se encuentre en el mercado actualmente.
+			</parrafo>
+			<parrafo>
+				El aceite de canola es rico en grasas monoinsaturadas. Así mismo, contiene dos ácidos grasos esenciales el ácido linoléico (un ácido graso omega-6) y el ácido alfa linoléico (un ácido graso omega-3).Estos ácidos grasos dben obtenerse de los alimentospor que nuestro cuerpo no los puede producir. Las grasas esenciales tienen un papel importante en el crecimiento, la reproducción y la visión; ayudan a tener la piel saludable; y actúan en el metabolismo del colesterol.
+			</parrafo>
+			<parrafo>
+		 		Los consumidores de hoy que llevan una vida muy activa, quieren alimentos con buen sabor que no afecten su salud. Por ello, si de aplicaciones hablamos. El aceite de canola es multifuncional, ya que goza de una alta tolerancia al calor, de un sabor neutro y de una textura suave y ligera. Se puede utilizar en platillos salteados, fritos y horneados, además, en marinadas, aderezos para ensaladas, salsas y fondues.
+		 	</parrafo>
+		 	<parrafo>
+		 		Por su origen vegetal no contiene colesterol.
+		 	</parrafo>
+		 	<parrafo>
+		 		El aceite de canola es una buena fuente de vitamina E. La cual, es un antioxidante natural.
+		 	</parrafo>
+		</propiedades>
+	</ficha>
+	
+	<ficha>
+		<id>producto_5</id>
+		<urlimg>images/productos/fichas/aceites_soraya_890ml.jpg</urlimg>
+		<producto>Aceite marca Soraya®.</producto>
+		<presentacion>Botella de 890 mL</presentacion>
+		<genero>Aceite vegetal.</genero>
+		<descripcion>
+			Producto elaborado a partir de aceites vegetales de girasol y/o canola y/o soya y/u oleína de palma; los cuales, son sometidos a los procesos de refinación, blanqueo  y deodorización al alto vacío.
+		</descripcion>
+		<ingredientes>99.995%  Aceite vegetal (girasol y/o canola y/o soya y/u oleína de palma).</ingredientes> 
+		<ingredientes>0.005% Antioxodante TBHQ.</ingredientes>
+		<usos>Ampliamente recomendado en uso domestico o panificacion o restaurante o en todo tipo de freido, conservas, aderesos o industrial.</usos>
+		<propiedades>
+			<parrafo>
+				Los aceites de origen vegetal deben estar siempre presentes en la alimentación diaria en una cantidad adecuada, ya que aportan a nuestro organismo, ácidos grasos esenciales. Por ello Aceite Soraya® está elaborado de una mezcla de aceites.  A continuación, se describen algunas características y cualidades, de dos de los aceites que integran la formulación de este producto.
+			</parrafo>
+			<parrafo>
+				Aceite de canola. Es rico en grasas monoinsaturadas. Así mismo, contiene dos ácidos grasos esenciales, el ácido linoleico (un ácido graso omega-6) y el ácido alfa linolénico (un ácido graso omega-3). Los cuales, tienen un papel importante en el crecimiento, la reproducción y la visión; ayudan a mantener la piel saludable; y actúan en el metabolismo del colesterol.
+			</parrafo>
+			<parrafo>
+		 		Aceite de soya. Es rico en grasas mono y poliinsaturadas, que ayudan a evitar algunas enfermedades cardiacas, debido a que reducen los niveles de colesterol "malo" en la sangre y, en consecuencia, sus efectos nocivos.				
+		 	</parrafo>
+		 	<parrafo>
+		 		Ahora bien, si de aplicaciones hablamos; el aceite de canola es multifuncional, ya que goza de una alta tolerancia al calor, de un sabor neutro y de una textura suave y ligera. Se puede utilizar en platillos salteados, fritos y horneados, además, en marinadas, aderezos para ensaladas, salsas y fondues. Al utilizarse en lugar de grasas sólidas u otros tipos de aceites vegetales, el aceite de canola aporta a los productos horneados un menor porcentaje de grasas saturadas y grasas trans. Por otra parte, el aceite de soya es muy versátil en la cocina, además del freído se puede aplicar en la elaboración de aderezos, mayonesas y vinagretas. Ya que no altera el sabor, es ligero y menos viscoso que otros aceites vegetales, por eso al freír se absorbe menos y rinde más; es decir, se puede freír más con menos aceite y esto implica un ahorro en el consumo.
+		 	</parrafo>
+		 	<parrafo>
+		 		Por su origen vegetal. No contiene colesterol.
+		 	</parrafo>
+
+		</propiedades>
+	</ficha>
+	
+	<ficha>
+		<id>producto_6</id>
+		<urlimg>images/productos/fichas/aceites_soraya_20lt.jpg</urlimg>
+		<producto>Aceite marca Soraya®.</producto>
+		<presentacion>Bidon de 20 L</presentacion>
+		<genero>Aceite vegetal.</genero>
+		<descripcion>Producto elaborado a partir de soya 100%, proveniente de la semilla de soya (Glycine Max L.) y/o de sus variedades bio-tecnológicas que sean aptas para el consumo humano; el cual, es sometido a los procesos de refinación, blanqueo  y deodorización al alto vacío.</descripcion>
+		<ingredientes>99.995% Aceite comestible puro de soya.</ingredientes> 
+		<ingredientes>0.005% Antioxodante TBHQ.</ingredientes>
+		<usos>Ampliamente recomendado en uso domestico o panificacion o restaurante o en todo tipo de freido, conservas, aderesos o industrial.</usos>
+		<propiedades>
+			<parrafo>
+				Para proteger su salud, es muy importante e imprescindible tener una alimentación sana. Para lograr este objetivo, se deben elegir muy bien los alimentos. Si de aceites se trata, todos poseen propiedades, pero las características del aceite de soya son múltiples y muy importantes.
+			</parrafo>
+			<parrafo>
+				El aceite de soya tiene un excelente perfil nutricional; su consumo continuo, proporciona diversos beneficios a la salud. Los cuales, se transfieren a los alimentos preparados con él. Entre las ventajas nutricionales se encuentran las siguientes:
+			</parrafo>
+			<parrafo>
+		 		* Es rico en grasas mono y poliinsaturadas, que ayudan a evitar algunas enfermedades cardiacas, debido a que reducen los niveles de colesterol "malo" en la sangre y, en consecuencia, sus efectos nocivos.
+		 	</parrafo>
+		 	<parrafo>
+		 		* No contiene grasas trans. Las cuales, incrementan los niveles de colesterol "malo" y disminuyen los niveles de colesterol "bueno". Por lo que, se puede emplear sin ningún inconveniente en los restaurantes y cadenas de comida rápida.
+		 	</parrafo>
+		 	<parrafo>
+		 		* Es una fuente de alfa-tocoferol (Vitamina E).
+		 	</parrafo>
+		 	<parrafo>
+		 		Además de todo lo antes mencionado. Por su origen. No contiene colesterol.
+		 	</parrafo>
+		 	<parrafo>
+		 		Ahora bien, si de aplicaciones hablamos; el aceite de soya es muy versátil en la cocina, además del freído se puede aplicar en la elaboración de aderezos, mayonesas y vinagretas. Ya que no altera el sabor, es ligero y menos viscoso que otros aceites vegetales, por eso al freír se absorbe menos y rinde más; es decir, se puede freír más con menos aceite y esto implica un ahorro en el consumo.
+		 	</parrafo>
+		 	<parrafo>
+				Es un aceite muy estable y resistente a la temperatura. En condiciones normales de freído, no desprende humo, ya que tiene un punto de humeo de 234 °C, mayor al de otros aceites vegetales; por lo tanto, es ideal para freír todo tipo de alimentos, en su forma simple, capeados o empanizados dentro de un amplio rango de temperaturas, ya sea en plancha o por inmersión dentro de una freidora.
+		 	</parrafo>
+		</propiedades>
+	</ficha>
+
+	<ficha>
+		<id>producto_7</id>
+		<urlimg>images/productos/fichas/aceites_maizol_1lt.jpg</urlimg>
+		<producto>Aceite marca Maizol®.</producto>
+		<presentacion>Botella de 1L</presentacion>
+		<genero>Aceite vegetal.</genero>
+		<descripcion>
+			Producto elaborado a partir de aceite de maíz 100% proveniente del germen de maíz (Zea Mays L.); el cual, es sometido a los procesos de refinación, blanqueo, deodorización al alto vacío y winterizado.
+		</descripcion>
+		<ingredientes>99.995%  Aceite comestible puro de maíz.</ingredientes> 
+		<ingredientes>0.005% Antioxodante TBHQ.</ingredientes>
+		<usos>Ampliamente recomendado en uso domestico o panificacion o restaurante o en todo tipo de freido, conservas, aderesos o industrial.</usos>
+		<propiedades>
+			<parrafo>
+				El aceite de maíz es un producto noble para fines alimenticios, siendo un producto muy saludable. Es un aceite que puede ser utilizado tanto en la mesa, como en la preparación de diversos platillos,  condimentos de ensaladas y en la composición de productos de la industria alimenticia. Debido a su excelente cualidad, el aceite de maíz tiene aplicaciones variadas, dentro de las cuales podemos mencionar: Industria Farmacéutica, Cosmética, Alimenticia, Veterinaria; entre otras.
+			</parrafo>
+			<parrafo>
+				Hablando de sus aplicaciones en la elaboración de productos alimenticios, tiene una gran resistencia al enranciamiento e intensifica el sabor de los alimentos. El aceite de maíz es muy utilizado por ello para freír alimentos,  para la elaboración de margarinas, mayonesas, en la industria de la panificación, consomés y siempre que se quiera reemplazar la grasa animal.
+			</parrafo>
+		
+		 	<parrafo>
+		 		Además por su origen vegetal. No contiene colesterol.
+		 	</parrafo>
+
+		</propiedades>
+	</ficha>
+	<ficha>
+		<id>producto_8</id>
+		<urlimg>images/productos/fichas/aceites_maizol_20lt.jpg</urlimg>
+		<producto>Aceite marca Maizol®.</producto>
+		<presentacion>Bidon de 20L</presentacion>
+		<genero>Aceite vegetal.</genero>
+		<descripcion>
+			Producto elaborado a partir de aceite de maíz 100% proveniente del germen de maíz (Zea Mays L.); el cual, es sometido a los procesos de refinación, blanqueo, deodorización al alto vacío y winterizado.
+		</descripcion>
+		<ingredientes>99.995%  Aceite comestible puro de maíz.</ingredientes> 
+		<ingredientes>0.005% Antioxodante TBHQ.</ingredientes>
+		<usos>Ampliamente recomendado en uso domestico o panificacion o restaurante o en todo tipo de freido, conservas, aderesos o industrial.</usos>
+		<propiedades>
+			<parrafo>
+				El aceite de maíz es un producto noble para fines alimenticios, siendo un producto muy saludable. Es un aceite que puede ser utilizado tanto en la mesa, como en la preparación de diversos platillos,  condimentos de ensaladas y en la composición de productos de la industria alimenticia. Debido a su excelente cualidad, el aceite de maíz tiene aplicaciones variadas, dentro de las cuales podemos mencionar: Industria Farmacéutica, Cosmética, Alimenticia, Veterinaria; entre otras.
+			</parrafo>
+			<parrafo>
+				Hablando de sus aplicaciones en la elaboración de productos alimenticios, tiene una gran resistencia al enranciamiento e intensifica el sabor de los alimentos. El aceite de maíz es muy utilizado por ello para freír alimentos,  para la elaboración de margarinas, mayonesas, en la industria de la panificación, consomés y siempre que se quiera reemplazar la grasa animal.
+			</parrafo>
+		
+		 	<parrafo>
+		 		Además por su origen vegetal. No contiene colesterol.
+		 	</parrafo>
+
+		</propiedades>
+	</ficha>
+	<ficha>
+		<id>producto_9</id>
+		<urlimg>images/productos/fichas/aceites_nina_500ml.jpg</urlimg>
+		<producto>Aceite marca La Niña®.</producto>
+		<presentacion>Botella PET de 500 mL</presentacion>
+		<genero>Aceite vegetal.</genero>
+		<descripcion>
+			Producto elaborado a partir de aceites vegetales de girasol y/o canola y/o soya y/u oleína de palma; los cuales, son sometidos a los procesos de refinación, blanqueo  y deodorización al alto vacío.
+		</descripcion>
+		<ingredientes>99.995%  Aceite vegetal (girasol y/o canola y/o soya y/u oleína de palma)</ingredientes> 
+		<ingredientes>0.005% Antioxodante TBHQ.</ingredientes>
+		<usos>Ampliamente recomendado en uso domestico o panificacion o restaurante o en todo tipo de freido, conservas, aderesos o industrial.</usos>
+		<propiedades>
+			<parrafo>
+				Los aceites de origen vegetal deben estar siempre presentes en la alimentación diaria en una cantidad adecuada, ya que aportan a nuestro organismo, ácidos grasos esenciales. Por ello Aceite La Niña® está elaborado de una mezcla de aceites.  Por lo que, a continuación, se describen algunas características y cualidades, de dos de los aceites que integran la formulación de este producto.
+			</parrafo>
+			<parrafo>
+				Aceite de canola. Es rico en grasas monoinsaturadas. Así mismo, contiene dos ácidos grasos esenciales, el ácido linoleico (un ácido graso omega-6) y el ácido alfa linolénico (un ácido graso omega-3). Los cuales, tienen un papel importante en el crecimiento, la reproducción y la visión; ayudan a mantener la piel saludable; y actúan en el metabolismo del colesterol.
+			</parrafo>
+		
+		 	<parrafo>
+		 		Aceite de soya. Es rico en grasas mono y poliinsaturadas, que ayudan a evitar algunas enfermedades cardiacas, debido a que reducen los niveles de colesterol "malo" en la sangre y, en consecuencia, sus efectos nocivos.
+		 	</parrafo>
+		 	<parrafo>
+		 		Ahora bien, si de aplicaciones hablamos; el aceite de canola es multifuncional, ya que goza de una alta tolerancia al calor, de un sabor neutro y de una textura suave y ligera. Se puede utilizar en platillos salteados, fritos y horneados, además, en marinadas, aderezos para ensaladas, salsas y fondues. Al utilizarse en lugar de grasas sólidas u otros tipos de aceites vegetales, el aceite de canola aporta a los productos horneados un menor porcentaje de grasas saturadas y grasas trans. Por otra parte, el aceite de soya es muy versátil en la cocina, además del freído se puede aplicar en la elaboración de aderezos, mayonesas y vinagretas. Ya que no altera el sabor, es ligero y menos viscoso que otros aceites vegetales, por eso al freír se absorbe menos y rinde más; es decir, se puede freír más con menos aceite y esto implica un ahorro en el consumo.
+		 	</parrafo>
+		 	<parrafo>
+		 		Por su origen vegetal. No contiene colesterol.
+		 	</parrafo>
+
+		</propiedades>
+	</ficha>
+	<ficha>
+		<id>producto_10</id>
+		<urlimg>images/productos/fichas/aceites_nina_1lt.jpg</urlimg>
+		<producto>Aceite marca La Niña®.</producto>
+		<presentacion>Botella PET de 1L</presentacion>
+		<genero>Aceite vegetal.</genero>
+		<descripcion>
+			Producto elaborado a partir de aceites vegetales de girasol y/o canola y/o soya y/u oleína de palma; los cuales, son sometidos a los procesos de refinación, blanqueo  y deodorización al alto vacío.
+		</descripcion>
+		<ingredientes>99.995%  Aceite vegetal (girasol y/o canola y/o soya y/u oleína de palma)</ingredientes> 
+		<ingredientes>0.005% Antioxodante TBHQ.</ingredientes>
+		<usos>Ampliamente recomendado en uso domestico o panificacion o restaurante o en todo tipo de freido, conservas, aderesos o industrial.</usos>
+		<propiedades>
+			<parrafo>
+				Los aceites de origen vegetal deben estar siempre presentes en la alimentación diaria en una cantidad adecuada, ya que aportan a nuestro organismo, ácidos grasos esenciales. Por ello Aceite La Niña® está elaborado de una mezcla de aceites.  Por lo que, a continuación, se describen algunas características y cualidades, de dos de los aceites que integran la formulación de este producto.
+			</parrafo>
+			<parrafo>
+				Aceite de canola. Es rico en grasas monoinsaturadas. Así mismo, contiene dos ácidos grasos esenciales, el ácido linoleico (un ácido graso omega-6) y el ácido alfa linolénico (un ácido graso omega-3). Los cuales, tienen un papel importante en el crecimiento, la reproducción y la visión; ayudan a mantener la piel saludable; y actúan en el metabolismo del colesterol.
+			</parrafo>
+		
+		 	<parrafo>
+		 		Aceite de soya. Es rico en grasas mono y poliinsaturadas, que ayudan a evitar algunas enfermedades cardiacas, debido a que reducen los niveles de colesterol "malo" en la sangre y, en consecuencia, sus efectos nocivos.
+		 	</parrafo>
+		 	<parrafo>
+		 		Ahora bien, si de aplicaciones hablamos; el aceite de canola es multifuncional, ya que goza de una alta tolerancia al calor, de un sabor neutro y de una textura suave y ligera. Se puede utilizar en platillos salteados, fritos y horneados, además, en marinadas, aderezos para ensaladas, salsas y fondues. Al utilizarse en lugar de grasas sólidas u otros tipos de aceites vegetales, el aceite de canola aporta a los productos horneados un menor porcentaje de grasas saturadas y grasas trans. Por otra parte, el aceite de soya es muy versátil en la cocina, además del freído se puede aplicar en la elaboración de aderezos, mayonesas y vinagretas. Ya que no altera el sabor, es ligero y menos viscoso que otros aceites vegetales, por eso al freír se absorbe menos y rinde más; es decir, se puede freír más con menos aceite y esto implica un ahorro en el consumo.
+		 	</parrafo>
+		 	<parrafo>
+		 		Por su origen vegetal. No contiene colesterol.
+		 	</parrafo>
+
+		</propiedades>
+	</ficha>
+	<ficha>
+		<id>producto_11</id>
+		<urlimg>images/productos/fichas/aceites_nina_20lt.jpg</urlimg>
+		<producto>Aceite marca La Niña®.</producto>
+		<presentacion>Bidon de 20 L</presentacion>
+		<genero>Aceite vegetal.</genero>
+		<descripcion>
+			Producto elaborado a partir de aceites vegetales de girasol y/o canola y/o soya y/u oleína de palma; los cuales, son sometidos a los procesos de refinación, blanqueo  y deodorización al alto vacío.
+		</descripcion>
+		<ingredientes>99.995%  Aceite vegetal (girasol y/o canola y/o soya y/u oleína de palma)</ingredientes> 
+		<ingredientes>0.005% Antioxodante TBHQ.</ingredientes>
+		<usos>Ampliamente recomendado en uso domestico o panificacion o restaurante o en todo tipo de freido, conservas, aderesos o industrial.</usos>
+		<propiedades>
+			<parrafo>
+				Los aceites de origen vegetal deben estar siempre presentes en la alimentación diaria en una cantidad adecuada, ya que aportan a nuestro organismo, ácidos grasos esenciales. Por ello Aceite La Niña® está elaborado de una mezcla de aceites.  Por lo que, a continuación, se describen algunas características y cualidades, de dos de los aceites que integran la formulación de este producto.
+			</parrafo>
+			<parrafo>
+				Aceite de canola. Es rico en grasas monoinsaturadas. Así mismo, contiene dos ácidos grasos esenciales, el ácido linoleico (un ácido graso omega-6) y el ácido alfa linolénico (un ácido graso omega-3). Los cuales, tienen un papel importante en el crecimiento, la reproducción y la visión; ayudan a mantener la piel saludable; y actúan en el metabolismo del colesterol.
+			</parrafo>
+		
+		 	<parrafo>
+		 		Aceite de soya. Es rico en grasas mono y poliinsaturadas, que ayudan a evitar algunas enfermedades cardiacas, debido a que reducen los niveles de colesterol "malo" en la sangre y, en consecuencia, sus efectos nocivos.
+		 	</parrafo>
+		 	<parrafo>
+		 		Ahora bien, si de aplicaciones hablamos; el aceite de canola es multifuncional, ya que goza de una alta tolerancia al calor, de un sabor neutro y de una textura suave y ligera. Se puede utilizar en platillos salteados, fritos y horneados, además, en marinadas, aderezos para ensaladas, salsas y fondues. Al utilizarse en lugar de grasas sólidas u otros tipos de aceites vegetales, el aceite de canola aporta a los productos horneados un menor porcentaje de grasas saturadas y grasas trans. Por otra parte, el aceite de soya es muy versátil en la cocina, además del freído se puede aplicar en la elaboración de aderezos, mayonesas y vinagretas. Ya que no altera el sabor, es ligero y menos viscoso que otros aceites vegetales, por eso al freír se absorbe menos y rinde más; es decir, se puede freír más con menos aceite y esto implica un ahorro en el consumo.
+		 	</parrafo>
+		 	<parrafo>
+		 		Por su origen vegetal. No contiene colesterol.
+		 	</parrafo>
+
+		</propiedades>
+	</ficha>
+	<ficha>
+		<id>producto_12</id>
+		<urlimg>images/productos/fichas/aceites_colon_890ml.jpg</urlimg>
+		<producto>Aceite marca La Colón®.</producto>
+		<presentacion>Botella de 890 ml</presentacion>
+		<genero>Aceite vegetal.</genero>
+		<descripcion>
+			Producto elaborado a partir de aceites vegetales de girasol y/o canola y/o soya y/u oleína de palma; los cuales, son sometidos a los procesos de refinación, blanqueo  y deodorización al alto vacío.
+		</descripcion>
+		<ingredientes>99.995%  Aceite vegetal (girasol y/o canola y/o soya y/u oleína de palma)</ingredientes> 
+		<ingredientes>0.005% Antioxodante TBHQ.</ingredientes>
+		<usos>Ampliamente recomendado en uso domestico o panificacion o restaurante o en todo tipo de freido, conservas, aderesos o industrial.</usos>
+		<propiedades>
+			<parrafo>
+				Los aceites de origen vegetal deben estar siempre presentes en la alimentación diaria en una cantidad adecuada, ya que aportan a nuestro organismo, ácidos grasos esenciales. Por ello Aceite La Niña® está elaborado de una mezcla de aceites.  Por lo que, a continuación, se describen algunas características y cualidades, de dos de los aceites que integran la formulación de este producto.
+			</parrafo>
+			<parrafo>
+				Aceite de canola. Es rico en grasas monoinsaturadas. Así mismo, contiene dos ácidos grasos esenciales, el ácido linoleico (un ácido graso omega-6) y el ácido alfa linolénico (un ácido graso omega-3). Los cuales, tienen un papel importante en el crecimiento, la reproducción y la visión; ayudan a mantener la piel saludable; y actúan en el metabolismo del colesterol.
+			</parrafo>
+		
+		 	<parrafo>
+		 		Aceite de soya. Es rico en grasas mono y poliinsaturadas, que ayudan a evitar algunas enfermedades cardiacas, debido a que reducen los niveles de colesterol "malo" en la sangre y, en consecuencia, sus efectos nocivos.
+		 	</parrafo>
+		 	<parrafo>
+		 		Ahora bien, si de aplicaciones hablamos; el aceite de canola es multifuncional, ya que goza de una alta tolerancia al calor, de un sabor neutro y de una textura suave y ligera. Se puede utilizar en platillos salteados, fritos y horneados, además, en marinadas, aderezos para ensaladas, salsas y fondues. Al utilizarse en lugar de grasas sólidas u otros tipos de aceites vegetales, el aceite de canola aporta a los productos horneados un menor porcentaje de grasas saturadas y grasas trans. Por otra parte, el aceite de soya es muy versátil en la cocina, además del freído se puede aplicar en la elaboración de aderezos, mayonesas y vinagretas. Ya que no altera el sabor, es ligero y menos viscoso que otros aceites vegetales, por eso al freír se absorbe menos y rinde más; es decir, se puede freír más con menos aceite y esto implica un ahorro en el consumo.
+		 	</parrafo>
+		 	<parrafo>
+		 		Por su origen vegetal. No contiene colesterol.
+		 	</parrafo>
+
+		</propiedades>
+	</ficha>
+	<ficha>
+		<id>producto_13</id>
+		<urlimg>images/productos/fichas/aceites_colon_1lt.jpg</urlimg>
+		<producto>Aceite marca La Colón®.</producto>
+		<presentacion> Botella PET de 1 L</presentacion>
+		<genero>Aceite vegetal.</genero>
+		<descripcion>
+			Producto elaborado a partir de aceites vegetales de girasol y/o canola y/o soya y/u oleína de palma; los cuales, son sometidos a los procesos de refinación, blanqueo  y deodorización al alto vacío.
+		</descripcion>
+		<ingredientes>99.995%  Aceite vegetal (girasol y/o canola y/o soya y/u oleína de palma)</ingredientes> 
+		<ingredientes>0.005% Antioxodante TBHQ.</ingredientes>
+		<usos>Ampliamente recomendado en uso domestico o panificacion o restaurante o en todo tipo de freido, conservas, aderesos o industrial.</usos>
+		<propiedades>
+			<parrafo>
+				Los aceites de origen vegetal deben estar siempre presentes en la alimentación diaria en una cantidad adecuada, ya que aportan a nuestro organismo, ácidos grasos esenciales. Por ello Aceite La Niña® está elaborado de una mezcla de aceites.  Por lo que, a continuación, se describen algunas características y cualidades, de dos de los aceites que integran la formulación de este producto.
+			</parrafo>
+			<parrafo>
+				Aceite de canola. Es rico en grasas monoinsaturadas. Así mismo, contiene dos ácidos grasos esenciales, el ácido linoleico (un ácido graso omega-6) y el ácido alfa linolénico (un ácido graso omega-3). Los cuales, tienen un papel importante en el crecimiento, la reproducción y la visión; ayudan a mantener la piel saludable; y actúan en el metabolismo del colesterol.
+			</parrafo>
+		
+		 	<parrafo>
+		 		Aceite de soya. Es rico en grasas mono y poliinsaturadas, que ayudan a evitar algunas enfermedades cardiacas, debido a que reducen los niveles de colesterol "malo" en la sangre y, en consecuencia, sus efectos nocivos.
+		 	</parrafo>
+		 	<parrafo>
+		 		Ahora bien, si de aplicaciones hablamos; el aceite de canola es multifuncional, ya que goza de una alta tolerancia al calor, de un sabor neutro y de una textura suave y ligera. Se puede utilizar en platillos salteados, fritos y horneados, además, en marinadas, aderezos para ensaladas, salsas y fondues. Al utilizarse en lugar de grasas sólidas u otros tipos de aceites vegetales, el aceite de canola aporta a los productos horneados un menor porcentaje de grasas saturadas y grasas trans. Por otra parte, el aceite de soya es muy versátil en la cocina, además del freído se puede aplicar en la elaboración de aderezos, mayonesas y vinagretas. Ya que no altera el sabor, es ligero y menos viscoso que otros aceites vegetales, por eso al freír se absorbe menos y rinde más; es decir, se puede freír más con menos aceite y esto implica un ahorro en el consumo.
+		 	</parrafo>
+		 	<parrafo>
+		 		Por su origen vegetal. No contiene colesterol.
+		 	</parrafo>
+
+		</propiedades>
+	</ficha>
+	<ficha>
+		<id>producto_14</id>
+		<urlimg>images/productos/fichas/jabones_nina_deslumbrante.jpg</urlimg>
+		<producto>Jabón Niña.</producto>
+		<presentacion>Deslumbrante Blancura</presentacion>
+		<genero>Jabón de barra para lavanderia.</genero>
+		<descripcion>
+			Producto elaborado a partir de  sebo de res y aceite de coco, haciéndolas reaccionar con álcalis, para la formación del jabón (sebato de sodio y palmitato de sodio).
+		</descripcion>
+		<ingredientes>
+			Sebato de Sodio, Agua, Cocoato de Sodio, Glicerina, Perfume, Secuestrante y Blanqueador Óptico.
+		</ingredientes> 
+		<usos>	 
+			Limpieza y lavado de ropa a mano o en caso de escamarlo se puede utilizar en maquina.
+		</usos>
+		<propiedades>
+			<parrafo>
+				El jabón de lavandería Niña ejerce su acción limpiadora sobre las manchas de ropa. Ya que este tienen una parte liposoluble (no se disuelve en agua) y otra hidrosoluble (si se disuelve en agua)
+				El componente liposoluble hace que el jabón moje las manchas atrapándolas y disolviéndolas y el componente hidrosoluble hace que el jabón se disuelva a su vez en el agua y arrastre las manchas atrapadas en el componente  evitando así la redeposicion. Lo que da a nuestro jabón de lavandería La Niña un poder de limpieza supremo.			
+			</parrafo>
+			<parrafo>
+				Por ser un producto biodegradable es amigable con el medio ambiente y amable con la piel de las personas que lo usan por su contenido de glicerina que ayuda a mantener la piel suave y humectada. 
+				El jabón de lavandería La Niña se puede usar con toda confianza para lavar la ropa de toda la familia, blanca o de color. Ya que por ser un jabón de la más alta calidad ofrece la garantía de una limpieza efectiva sin dañar los tejidos o decolorar las prendas, Dejando a su vez un agradable aroma y una rica sensación de frescura.
+			</parrafo>
+		 	<parrafo>
+		 		El jabón de lavandería Niña en su presentación Deslumbrante Blancura es un jabón efectivo y rendidor para una limpieza suprema sin tanto tallar.
+		 	</parrafo>
+		</propiedades>
+	</ficha>
+	<ficha>
+		<id>producto_15</id>
+		<urlimg>images/productos/fichas/jabones_nina_limpiezaProfunda.jpg</urlimg>
+		<producto>Jabón Niña.</producto>
+		<presentacion>Limpieza profunda</presentacion>
+		<genero>Jabón de barra para lavanderia.</genero>
+		<descripcion>
+			Producto elaborado a partir de  sebo de res y aceite de coco, haciéndolas reaccionar con álcalis, para la formación del jabón (sebato de sodio y palmitato de sodio).
+		</descripcion>
+		<ingredientes>
+			Sebato de Sodio, Agua, Cocoato de Sodio, Glicerina, Perfume, Secuestrante y Blanqueador Óptico y Colorante.
+		</ingredientes> 
+		<usos>	 
+			Limpieza y lavado de ropa a mano o en caso de escamarlo se puede utilizar en maquina.
+		</usos>
+		<propiedades>
+			<parrafo>
+				El jabón de lavandería Niña ejerce su acción limpiadora sobre las manchas de ropa. Ya que este tienen una parte liposoluble (no se disuelve en agua) y otra hidrosoluble (si se disuelve en agua)
+				El componente liposoluble hace que el jabón moje las manchas atrapándolas y disolviéndolas y el componente hidrosoluble hace que el jabón se disuelva a su vez en el agua y arrastre las manchas atrapadas en el componente  evitando así la redeposicion. Lo que da a nuestro jabón de lavandería La Niña un poder de limpieza supremo.			
+			</parrafo>
+			<parrafo>
+				Por ser un producto biodegradable es amigable con el medio ambiente y amable con la piel de las personas que lo usan por su contenido de glicerina que ayuda a mantener la piel suave y humectada. 
+				El jabón de lavandería La Niña se puede usar con toda confianza para lavar la ropa de toda la familia, blanca o de color. Ya que por ser un jabón de la más alta calidad ofrece la garantía de una limpieza efectiva sin dañar los tejidos o decolorar las prendas, Dejando a su vez un agradable aroma y una rica sensación de frescura.
+			</parrafo>
+		 	<parrafo>
+		 		El jabón de lavandería Niña en su presentación Deslumbrante Blancura es un jabón efectivo y rendidor para una limpieza suprema sin tanto tallar.
+		 	</parrafo>
+		</propiedades>
+	</ficha>
+	<ficha>
+		<id>producto_16</id>
+		<urlimg>images/productos/fichas/jabones_nina_maximasuavidad.jpg</urlimg>
+		<producto>Jabón Niña.</producto>
+		<presentacion>Maxima suavidad</presentacion>
+		<genero>Jabón de barra para lavanderia.</genero>
+		<descripcion>
+			Producto elaborado a partir de  sebo de res y aceite de coco, haciéndolas reaccionar con álcalis, para la formación del jabón (sebato de sodio y palmitato de sodio).
+		</descripcion>
+		<ingredientes>
+			Sebato de Sodio, Agua, Cocoato de Sodio, Glicerina, Perfume, Secuestrante y Blanqueador Óptico y Colorante.
+		</ingredientes> 
+		<usos>	 
+			Limpieza y lavado de ropa a mano o en caso de escamarlo se puede utilizar en maquina.
+		</usos>
+		<propiedades>
+			<parrafo>
+				El jabón de lavandería Niña ejerce su acción limpiadora sobre las manchas de ropa. Ya que este tienen una parte liposoluble (no se disuelve en agua) y otra hidrosoluble (si se disuelve en agua)
+				El componente liposoluble hace que el jabón moje las manchas atrapándolas y disolviéndolas y el componente hidrosoluble hace que el jabón se disuelva a su vez en el agua y arrastre las manchas atrapadas en el componente  evitando así la redeposicion. Lo que da a nuestro jabón de lavandería La Niña un poder de limpieza supremo.			
+			</parrafo>
+			<parrafo>
+				Por ser un producto biodegradable es amigable con el medio ambiente y amable con la piel de las personas que lo usan por su contenido de glicerina que ayuda a mantener la piel suave y humectada. 
+				El jabón de lavandería La Niña se puede usar con toda confianza para lavar la ropa de toda la familia, blanca o de color. Ya que por ser un jabón de la más alta calidad ofrece la garantía de una limpieza efectiva sin dañar los tejidos o decolorar las prendas, Dejando a su vez un agradable aroma y una rica sensación de frescura.
+			</parrafo>
+		 	<parrafo>
+		 		El jabón de lavandería Niña en su presentación Deslumbrante Blancura es un jabón efectivo y rendidor para una limpieza suprema sin tanto tallar.
+		 	</parrafo>
+		</propiedades>
+	</ficha>
+	<ficha>
+		<id>producto_17</id>
+		<urlimg>images/productos/fichas/jabones_azo_suavidadtotal.jpg</urlimg>
+		<producto>Jabón Azo.</producto>
+		<presentacion>Suavidad Total</presentacion>
+		<genero>Jabón de barra para lavanderia.</genero>
+		<descripcion>
+			Producto elaborado a partir de  sebo de res y aceite de coco, haciéndolas reaccionar con álcalis, para la formación del jabón (sebato de sodio y palmitato de sodio).
+		</descripcion>
+		<ingredientes>
+			Sebato de Sodio, Agua, Cocoato de Sodio, Glicerina, Perfume, Secuestrante y Blanqueador Óptico y Colorante.
+		</ingredientes> 
+		<usos>	 
+			Limpieza y lavado de ropa a mano o en caso de escamarlo se puede utilizar en maquina.
+		</usos>
+		<propiedades>
+			<parrafo>
+				La acción limpiadora del jabón de lavandería Azo "Suavidad Total" se debe gracias a su poder emulsificante que le ayuda a suspender en el agua las manchas impregnadas en los tejidos de la ropa.
+				Al frotarlo sobre la ropa mojada crea una  solución jabonosa que cubre las manchas y provoca que sus partes no polares se disuelvan y dispersen. 			
+			</parrafo>
+			<parrafo>
+				Por su efectiva acción limpiadora es el aliado ideal para acabar con las manchas de puños y cuellos, lavar ropa de mezclilla y de trabajo.
+			</parrafo>
+		 	<parrafo>
+		 		Por ser un producto biodegradable es amigable con el medio ambiente y amable con la piel de las personas que lo usan por su contenido de glicerina que ayuda a mantener la piel suave y humectada. 
+				Con un agradable aroma cítrico en colores Blanco, azul y rosa, se puede usar con toda confianza para lavar  la ropa blanca o de color de toda la familia.
+		 	</parrafo>
+		 	<parrafo>
+		 		El Jabón Azo es la barra más efectiva de los jabones de lavandería.
+		 	</parrafo>
+		</propiedades>
+	</ficha>
+	<ficha>
+		<id>producto_18</id>
+		<urlimg>images/productos/fichas/jabones_azo_suavidadtotal_rosa.jpg</urlimg>
+		<producto>Jabón Azo.</producto>
+		<presentacion>Suavidad Total</presentacion>
+		<genero>Jabón de barra para lavanderia.</genero>
+		<descripcion>
+			Producto elaborado a partir de  sebo de res y aceite de coco, haciéndolas reaccionar con álcalis, para la formación del jabón (sebato de sodio y palmitato de sodio).
+		</descripcion>
+		<ingredientes>
+			Sebato de Sodio, Agua, Cocoato de Sodio, Glicerina, Perfume, Secuestrante y Blanqueador Óptico y Colorante.
+		</ingredientes> 
+		<usos>	 
+			Limpieza y lavado de ropa a mano o en caso de escamarlo se puede utilizar en maquina.
+		</usos>
+		<propiedades>
+			<parrafo>
+				La acción limpiadora del jabón de lavandería Azo "Suavidad Total" se debe gracias a su poder emulsificante que le ayuda a suspender en el agua las manchas impregnadas en los tejidos de la ropa.
+				Al frotarlo sobre la ropa mojada crea una  solución jabonosa que cubre las manchas y provoca que sus partes no polares se disuelvan y dispersen. 			
+			</parrafo>
+			<parrafo>
+				Por su efectiva acción limpiadora es el aliado ideal para acabar con las manchas de puños y cuellos, lavar ropa de mezclilla y de trabajo.
+			</parrafo>
+		 	<parrafo>
+		 		Por ser un producto biodegradable es amigable con el medio ambiente y amable con la piel de las personas que lo usan por su contenido de glicerina que ayuda a mantener la piel suave y humectada. 
+				Con un agradable aroma cítrico en colores Blanco, azul y rosa, se puede usar con toda confianza para lavar  la ropa blanca o de color de toda la familia.
+		 	</parrafo>
+		 	<parrafo>
+		 		El Jabón Azo es la barra más efectiva de los jabones de lavandería.
+		 	</parrafo>
+		</propiedades>
+	</ficha>
+	<ficha>
+		<id>producto_19</id>
+		<urlimg>images/productos/fichas/jabones_azo_blancuraextrema.jpg</urlimg>
+		<producto>Jabón Azo.</producto>
+		<presentacion>Blancura Extrema</presentacion>
+		<genero>Jabón de barra para lavanderia.</genero>
+		<descripcion>
+			Producto elaborado a partir de  sebo de res y aceite de coco, haciéndolas reaccionar con álcalis, para la formación del jabón (sebato de sodio y palmitato de sodio).
+		</descripcion>
+		<ingredientes>
+			Sebato de Sodio, Agua, Cocoato de Sodio, Glicerina, Perfume, Secuestrante y Blanqueador óptico.
+		</ingredientes> 
+		<usos>	 
+			Limpieza y lavado de ropa a mano o en caso de escamarlo se puede utilizar en maquina.
+		</usos>
+		<propiedades>
+			<parrafo>
+				La acción limpiadora del jabón de lavandería Azo "Blancura Extrema" se debe gracias a su poder emulsificante que le ayuda a suspender en el agua las manchas impregnadas en los tejidos de la ropa.
+			</parrafo>
+			<parrafo>
+				Al frotarlo sobre la ropa mojada crea una  solución jabonosa que cubre las manchas y provoca que sus partes no polares se disuelvan y dispersen. 
+			</parrafo>
+		 	<parrafo>
+		 		Por su efectiva acción limpiadora es el aliado ideal para acabar con las manchas de puños y cuellos, lavar ropa de mezclilla y de trabajo. 
+		 	</parrafo>
+		 	<parrafo>
+		 		Por ser un producto biodegradable es amigable con el medio ambiente y amable con la piel de las personas que lo usan por su contenido de glicerina que ayuda a mantener la piel suave y humectada. 
+		 	</parrafo>
+		 	<parrafo>
+		 		Con un agradable aroma cítrico en colores Blanco, azul y rosa, se puede usar con toda confianza para lavar  la ropa blanca o de color de toda la familia.
+		 	</parrafo>
+		 	<parrafo>
+		 		El Jabón Azo es la barra más efectiva de los jabones de lavandería.
+		 	</parrafo>
+		</propiedades>
+	</ficha>
+	<ficha>
+		<id>producto_20</id>
+		<urlimg>images/productos/fichas/mantecas_combate.jpg</urlimg>
+		<producto>Grasa comestible, marca Combate.</producto>
+		<presentacion>25 kg</presentacion>
+		<genero>Grasa comestible.</genero>
+		<descripcion>
+			Producto elaborado a partir de sebo comestible y aceite vegetal; los cual, son sometidos a los procesos de refinación, blanqueo, hidrogenación parcial y deodorización al alto vacío.
+		</descripcion>
+		<ingredientes>
+			100 % Grasa comestible.
+		</ingredientes> 
+		<usos>	 
+			Panificación, pastelería, elaboración de tamales y pasta seca.
+		</usos>
+		<propiedades>
+			<parrafo>		
+				La formulación de nuestro producto, es ideal para la elaboración principalmente de pan blanco, hojaldre, pan dulce biscochos y algun otro tipo de reposteria. Su consistencia, permite el amasado manual. Así mismo, es amigable para dicho proceso en un equipo industrial. Por sus características esta grasa es preparada para amasijo no para freído.
+			</parrafo>
+		</propiedades>
+	</ficha>
+	<ficha>
+		<id>producto_21</id>
+		<urlimg>images/productos/fichas/mantecas_colon_25kg.jpg</urlimg>
+		<producto>Grasa comestible, marca Colón T1.</producto>
+		<presentacion>25 kg</presentacion>
+		<genero>Grasa comestible.</genero>
+		<descripcion>
+			Nuestro producto, es ideal para la elaboración de masas de panificación como pan dulce, biscochos y reposteria en general  ; por sus características fisicoquímicas, puede ser utilizado como base para margarinas y productos que requieran freído profundo.
+		</descripcion>
+		<ingredientes>
+			100 % Grasa comestible.
+		</ingredientes> 
+		<usos>	 
+			Panificación, pastelería, elaboración de tamales y pasta seca.
+		</usos>
+		<propiedades>
+			<parrafo>		
+				La formulación de nuestro producto, es ideal para la elaboración principalmente de pan blanco, hojaldre, pan dulce biscochos y algun otro tipo de reposteria. Su consistencia, permite el amasado manual. Así mismo, es amigable para dicho proceso en un equipo industrial. Por sus características esta grasa es preparada para amasijo no para freído.
+			</parrafo>
+			<parrafo>
+				Su formulación esta diseñada principalmente, para su uso en lugares cálidos.
+			</parrafo>
+		</propiedades>
+	</ficha>
+	<ficha>
+		<id>producto_22</id>
+		<urlimg>images/productos/fichas/mantecas_colon_25kg.jpg</urlimg>
+		<producto> Grasa comestible, marca Colón T2</producto>
+		<presentacion>25 kg</presentacion>
+		<genero>Grasa comestible.</genero>
+		<descripcion>
+			Producto elaborado a partir de sebo comestible y aceite vegetal; los cual, son sometidos a los procesos de refinación, blanqueo, hidrogenación parcial y deodorización al alto vacío.
+		</descripcion>
+		<ingredientes>
+			100 % Grasa comestible.
+		</ingredientes> 
+		<usos>	 
+			Panificación, pastelería, elaboración de tamales y pasta seca.
+		</usos>
+		<propiedades>
+			<parrafo>		
+				Nuestro producto, es ideal para la elaboración de masas de panificación como pan dulce, biscochos y reposteria en general  ; por sus características fisicoquímicas, puede ser utilizado como base para margarinas y productos que requieran freído profundo.
+			</parrafo>
+			<parrafo>
+				Su formulación esta diseñada principalmente, para su uso en lugares templados.
+			</parrafo>
+		</propiedades>
+	</ficha>
+	<ficha>
+		<id>producto_23</id>
+		<urlimg>images/productos/fichas/mantecas_colon_25kg.jpg</urlimg>
+		<producto> Grasa comestible, marca Colón T3</producto>
+		<presentacion>25 kg</presentacion>
+		<genero>Grasa comestible.</genero>
+		<descripcion>
+			Producto elaborado a partir de sebo comestible y aceite vegetal; los cual, son sometidos a los procesos de refinación, blanqueo, hidrogenación parcial y deodorización al alto vacío.
+		</descripcion>
+		<ingredientes>
+			100 % Grasa comestible.
+		</ingredientes> 
+		<usos>	 
+			Panificación, pastelería, elaboración de tamales y pasta seca.
+		</usos>
+		<propiedades>
+			<parrafo>		
+				Nuestro producto, es ideal para la elaboración de masas de panificación como pan dulce, biscochos y reposteria en general  ; por sus características fisicoquímicas, puede ser utilizado como base para margarinas y productos que requieran freído profundo.
+			</parrafo>
+			<parrafo>
+				Su formulación esta diseñada principalmente, para su uso en lugares frios.
+			</parrafo>
+		</propiedades>
+	</ficha>
+	<ficha>
+		<id>producto_24</id>
+		<urlimg>images/productos/fichas/mantecas_colon_25kg.jpg</urlimg>
+		<producto>Grasa comestible, marca Colón T5.</producto>
+		<presentacion>25 kg</presentacion>
+		<genero>Grasa comestible.</genero>
+		<descripcion>
+			Producto elaborado a partir de sebo comestible y aceite vegetal; los cual, son sometidos a los procesos de refinación, blanqueo, hidrogenación parcial y deodorización al alto vacío.
+		</descripcion>
+		<ingredientes>
+			100 % Grasa comestible.
+		</ingredientes> 
+		<usos>	 
+			Panificación, pastelería, elaboración de tamales y pasta seca.
+		</usos>
+		<propiedades>
+			<parrafo>					
+				Esta diseñada especialmente para su aplicación en productos lácteos; así como, para la industria galletera por su punto de fusión y curva de sólidos. También puede ser utilizada para productos de freído profundo y repostería.
+			</parrafo>
+			<parrafo>
+				Su formulación a base de una mezcla de aceites y grasa, le confiere a los productos, propiedades nutrimentales adecuadas, al aportar un bajo porcentaje de ácidos grasos saturados.
+			</parrafo>
+		</propiedades>
+	</ficha>
+	<ficha>
+		<id>producto_25</id>
+		<urlimg>images/productos/fichas/mantecas_colon_24kg.jpg</urlimg>
+		<producto>Grasa comestible, marca Colón T1.</producto>
+		<presentacion>24 kg</presentacion>
+		<genero>Grasa comestible.</genero>
+		<descripcion>
+			Producto elaborado a partir de sebo comestible y aceite vegetal; los cual, son sometidos a los procesos de refinación, blanqueo, hidrogenación parcial y deodorización al alto vacío.
+		</descripcion>
+		<ingredientes>
+			100 % Grasa comestible.
+		</ingredientes> 
+		<usos>	 
+			Panificación, pastelería, elaboración de tamales y pasta seca.
+		</usos>
+		<propiedades>
+			<parrafo>					
+				Nuestro producto, es ideal para la elaboración de masas de panificación como pan dulce, biscochos y reposteria en general  ; por sus características fisicoquímicas, puede ser utilizado como base para margarinas y productos que requieran freído profundo.
+			</parrafo>
+			<parrafo>
+				Su formulación esta diseñada principalmente, para su uso en lugares cálidos.
+			</parrafo>
+		</propiedades>
+	</ficha>
+	<ficha>
+		<id>producto_26</id>
+		<urlimg>images/productos/fichas/mantecas_colon_24kg.jpg</urlimg>
+		<producto> Grasa comestible, marca Colón T2</producto>
+		<presentacion>24 kg</presentacion>
+		<genero>Grasa comestible.</genero>
+		<descripcion>
+			Producto elaborado a partir de sebo comestible y aceite vegetal; los cual, son sometidos a los procesos de refinación, blanqueo, hidrogenación parcial y deodorización al alto vacío.
+		</descripcion>
+		<ingredientes>
+			100 % Grasa comestible.
+		</ingredientes> 
+		<usos>	 
+			Panificación, pastelería, elaboración de tamales y pasta seca.
+		</usos>
+		<propiedades>
+			<parrafo>		
+				Nuestro producto, es ideal para la elaboración de masas de panificación como pan dulce, biscochos y reposteria en general  ; por sus características fisicoquímicas, puede ser utilizado como base para margarinas y productos que requieran freído profundo.
+			</parrafo>
+			<parrafo>
+				Su formulación esta diseñada principalmente, para su uso en lugares templados.
+			</parrafo>
+		</propiedades>
+	</ficha>
+	<ficha>
+		<id>producto_27</id>
+		<urlimg>images/productos/fichas/mantecas_colon_24kg.jpg</urlimg>
+		<producto> Grasa comestible, marca Colón T3</producto>
+		<presentacion>24 kg</presentacion>
+		<genero>Grasa comestible.</genero>
+		<descripcion>
+			Producto elaborado a partir de sebo comestible y aceite vegetal; los cual, son sometidos a los procesos de refinación, blanqueo, hidrogenación parcial y deodorización al alto vacío.
+		</descripcion>
+		<ingredientes>
+			100 % Grasa comestible.
+		</ingredientes> 
+		<usos>	 
+			Panificación, pastelería, elaboración de tamales y pasta seca.
+		</usos>
+		<propiedades>
+			<parrafo>		
+				Nuestro producto, es ideal para la elaboración de masas de panificación como pan dulce, biscochos y reposteria en general  ; por sus características fisicoquímicas, puede ser utilizado como base para margarinas y productos que requieran freído profundo.
+			</parrafo>
+			<parrafo>
+				Su formulación esta diseñada principalmente, para su uso en lugares frios.
+			</parrafo>
+		</propiedades>
+	</ficha>
+</fichas>

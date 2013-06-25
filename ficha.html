@@ -1,0 +1,83 @@
+<div id="sub-menu-ficha">
+      <div class="f_right sub_prod relative">
+            <!--<a href="#" onclick="cargar('#change','jabones.html');">
+            <img id="btn_jabones" class="f_left" src="images/productos/btn_jabones.png"></a>-->
+            
+            <a href="#"  onclick="cargar('#change','jabones.html');  "
+            onmouseover="over('btn_jabones','0px','10px');" 
+            onmouseout="out('btn_jabones','0px','10px');">
+            <img id="btn_jabones" class="f_left" src="images/productos/btn_jabones.png"></a>
+                  
+            <a href="#"  onclick="cargar('#change','aceites.html');  "
+            onmouseover="over('btn_aceites','0px','130px');" 
+            onmouseout="out('btn_aceites','0px','130px');">
+            <img id="btn_aceites" class="f_left" src="images/productos/btn_aceites.png"></a>
+      
+            <a href="#" onclick="cargar('#change','mantecas.html');"
+            onmouseover="over('btn_mantecas','0px','249px');"
+            onmouseout="out('btn_mantecas','0px','249px');">
+            <img id="btn_mantecas" class="f_left" src="images/productos/btn_mantecas.png"></a>
+      </div>
+</div>
+
+<div class="clear"></div>
+
+<div id="cont-ficha">
+
+<script type="text/javascript">
+window.onload = cargar_producto(id_producto);
+</script>
+<div class="cont_flecha">
+	    <div class="flechas">
+            <a href="#" onclick="cargar_producto(next_prod());"
+            onmouseover="swap('flecha_der','nosotros/flecha_der_on.png','','')" 
+            onmouseout="swap('flecha_der','nosotros/flecha_der_off.png','','')">
+            <img id="flecha_der" class="f_right"src="images/nosotros/flecha_der_off.png"></a>
+            <a href="#" onclick="cargar_producto(prev_prod());"
+            onmouseover="swap('flecha_izq','nosotros/flecha_izq_on.png','','')"
+            onmouseout="swap('flecha_izq','nosotros/flecha_izq_off.png','','')">
+            <img id="flecha_izq" class="f_left flecha_izq" src="images/nosotros/flecha_izq_off.png"></a>
+
+        </div>  
+
+	<div class="ficha">
+		<div class="f_lefT">
+	        <span id="tag" class="txt_blue txt_xlarge"><strong>FICHA TÉCNICA</strong><br><br></span>
+	 	</div>
+
+
+		<div class="f_left" id="urlimg_f"></div>
+
+		<div class="f_left f_middle">
+			<div class="pleca_izq"><span class="txt_white txt_middle ficha_txt"><strong>PRODUCTO</strong></span></div>
+			<div class="ficha_con" id="producto_f"></div>
+
+			<div class="pleca_izq"><span class="txt_white txt_middle ficha_txt"><strong>PRESENTACIÓN</strong></span></div>
+			<div class="ficha_con" id="presentacion_f"></div>
+
+			<div class="pleca_izq"><span class="txt_white txt_middle ficha_txt"><strong>GÉNERO</strong></span></div>
+			<div class="ficha_con" id="genero_f"></div>
+
+			<div class="pleca_izq"><span class="txt_white txt_middle ficha_txt"><strong>DESCRIPCIÓN</strong></span></div>
+			<div class="ficha_con" id="descripcion_f"></div>
+
+			<div class="pleca_izq"><span class="txt_white txt_middle ficha_txt"><strong>INGREDIENTES</strong></span></div>
+			<div class="ficha_con" id="ingredientes_f"></div>
+
+		</div>
+		<div class="f_left ficha_der">
+			<div class="pleca_der"><span class="txt_white txt_middle ficha_txt"><strong>USOS SUGERIDOS</strong></span></div>
+			<div class="ficha_con" id="usos_f"></div>	
+
+			<div class="pleca_der"><span class="txt_white txt_middle ficha_txt"><strong>PROPIEDADES</strong></span></div>
+			<div class="ficha_con prop" id="propiedades_f">
+
+			</div>
+
+		
+
+		</div>
+	</div>
+</div>
+
+</div>

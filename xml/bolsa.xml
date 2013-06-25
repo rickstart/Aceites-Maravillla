@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vacantes>
+  <vacante>
+    <id>vacante_1</id>
+    <puesto>Gerente</puesto>
+    <escolaridad>Licenciatura</escolaridad>
+    <requisitos>
+      <edad>25 años</edad>
+      <estado>Indistinto</estado>
+      <experiencia>5 años</experiencia>
+      <sexo>Masculino</sexo>
+    </requisitos>
+    <direccion>
+      <calle>jardin</calle>
+      <colonia>pedregal</colonia>
+      <cp>07890</cp>
+    </direccion>
+    <email>rulo@aceitera.com</email>
+  </vacante>
+  <vacante>
+    <id>vacante_5</id>
+    <puesto>Supervisor</puesto>
+    <escolaridad>Ingeniería</escolaridad>
+    <requisitos>
+      <edad>40 años</edad>
+      <estado>Soltero</estado>
+      <experiencia>9 años</experiencia>
+      <sexo>Femenino</sexo>
+    </requisitos>
+    <direccion>
+      <calle>Prizo</calle>
+      <colonia>Sagitario</colonia>
+      <cp>78999</cp>
+    </direccion>
+    <email>any_141004@hotmail.com</email>
+  </vacante>
+  <vacante>
+    <id>vacante_6</id>
+    <puesto>Ayudante</puesto>
+    <escolaridad>Secundaría</escolaridad>
+    <requisitos>
+      <edad>24 años</edad>
+      <estado>Casado</estado>
+      <experiencia>5 años</experiencia>
+      <sexo>Indistinto</sexo>
+    </requisitos>
+    <direccion>
+      <calle>Norte 90</calle>
+      <colonia>Malinche</colonia>
+      <cp>08999</cp>
+    </direccion>
+    <email>ricardo.celj@gmail.com</email>
+  </vacante>
+  <vacante>
+    <id>vacante_8</id>
+    <puesto>Limpieza</puesto>
+    <escolaridad>Primaria</escolaridad>
+    <requisitos>
+      <edad>34 años</edad>
+      <estado>Casado</estado>
+      <experiencia>No necesaria</experiencia>
+      <sexo>Indistinto</sexo>
+    </requisitos>
+    <direccion>
+      <calle>Pedregal</calle>
+      <colonia>Pedregal</colonia>
+      <cp>89000</cp>
+    </direccion>
+    <email>ricky_taekwondo@hotmail.com</email>
+  </vacante>
+  <vacante>
+    <id>vacante_10</id>
+    <puesto>Secretaria</puesto>
+    <escolaridad>Preparatoria</escolaridad>
+    <requisitos>
+      <edad>25 años</edad>
+      <estado>Soltera</estado>
+      <experiencia>No necesaria</experiencia>
+      <sexo>femenino</sexo>
+    </requisitos>
+    <direccion>
+      <calle>sinai</calle>
+      <colonia>puerto alegre</colonia>
+      <cp>89078</cp>
+    </direccion>
+    <email>jaime@aceitera.com</email>
+  </vacante>
+  <vacante>
+    <id>vacante_11</id>
+    <puesto>Coordinador</puesto>
+    <escolaridad>Licenciatura</escolaridad>
+    <requisitos>
+      <edad>34 años</edad>
+      <estado>Casado</estado>
+      <experiencia>2 años</experiencia>
+      <sexo>Masculin</sexo>
+    </requisitos>
+    <direccion>
+      <calle>90</calle>
+      <colonia>Del Valle</colonia>
+      <cp>91234</cp>
+    </direccion>
+    <email>ricardo.celj@gmail.com</email>
+  </vacante>
+</vacantes>

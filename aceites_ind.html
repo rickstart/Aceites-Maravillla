@@ -1,0 +1,140 @@
+<script>
+$(document).ready(function(){
+  $("#btn_canola").click(function(){
+	 $('.canola').fadeIn('slow');
+     $('.copral').fadeOut('slow');
+     $('.soya').fadeOut('slow');
+     $('.palma').fadeOut('slow');
+	 $('.maiz').fadeOut('slow');
+  });
+  $("#btn_copral").click(function(){
+	 $('.copral').fadeIn('slow');
+     $('.canola').fadeOut('slow');
+     $('.soya').fadeOut('slow');
+     $('.palma').fadeOut('slow');
+	 $('.maiz').fadeOut('slow');
+  });
+  $("#btn_soya").click(function(){
+	 $('.soya').fadeIn('slow');
+     $('.canola').fadeOut('slow');
+     $('.copral').fadeOut('slow');
+     $('.palma').fadeOut('slow');
+	 $('.maiz').fadeOut('slow');
+  });
+  $("#btn_palma").click(function(){
+	 $('.palma').fadeIn('slow');
+     $('.canola').fadeOut('slow');
+     $('.copral').fadeOut('slow');
+     $('.soya').fadeOut('slow');
+	 $('.maiz').fadeOut('slow');
+  });
+  $("#btn_maiz").click(function(){
+	 $('.maiz').fadeIn('slow');
+     $('.canola').fadeOut('slow');
+     $('.copral').fadeOut('slow');
+     $('.soya').fadeOut('slow');
+     $('.palma').fadeOut('slow');
+  });
+
+  $("#btn_todos").click(function(){
+     $('.canola').fadeIn('slow');
+     $('.copral').fadeIn('slow');
+     $('.soya').fadeIn('slow');
+     $('.palma').fadeIn('slow');
+	 $('.maiz').fadeIn('slow');
+  });
+});
+</script>
+
+<div class="list_prod">
+        <div class="title ">
+            <div class="f_left relative">
+                <span id="tag" class="txt_blue txt_xlarge"><strong>INDUSTRIALES</strong></span>
+
+            </div>
+            <div class="f_right sub_prod relative">
+              
+                <a href="#" 
+                onclick="cargar('#change','aceites_ind.html');  ">
+                <img id="btn_aceites_ind" class="f_left" src="images/productos/btn_aceites_activo.png"></a>
+
+                <a href="#"  onclick="cargar('#change','mantecas_ind.html');  "
+                onmouseover="swap('btn_mantecas_ind','productos/btn_mantecas_roll.png','0px','130px');" 
+                onmouseout="swap('btn_mantecas_ind','productos/btn_mantecas.png','0px','130px');">
+                <img id="btn_mantecas_ind" class="f_left" src="images/productos/btn_mantecas.png"></a>
+
+                <a href="#" onclick="cargar('#change','mantecas_ind.html');"
+                onmouseover="swap('btn_pastas_ind','industriales/btn_pastas_roll.png','0px','249px');"
+                onmouseout="swap('btn_pastas_ind','industriales/btn_pastas.png','0px','249px');">
+                <img id="btn_pastas_ind" class="f_right" src="images/industriales/btn_pastas.png"></a>
+            </div>
+        </div>
+        
+<span class="txt_small txt_gray f_left pad_topm">Da click en una marca y conoce sus presentación.</span><br />
+        <div id="lista" class="lista ">
+		   <br><br>
+             <div class="sub_jabo f_left">
+                <span class="txt_small txt_gray f_left pad_topm">Tipo: &nbsp;&nbsp;</span>
+                <a href="#" id="btn_canola"class="txt_blue txt_medium pad_topm f_left">Canola</a>
+                <img class="f_left pop " src="images/productos/separador.png">
+                <a href="#" id="btn_copral"class="txt_blue txt_medium pad_topm f_left">Copral</a>
+                <img class="f_left pop"src="images/productos/separador.png">
+                <a href="#" id="btn_soya"class="txt_blue txt_medium pad_topm f_left">Soya</a>
+                <img class="f_left pop"src="images/productos/separador.png">
+                <a href="#" id="btn_palma"class="txt_blue txt_medium pad_topm f_left">Palma</a>
+                <img class="f_left pop"src="images/productos/separador.png">
+                <a href="#" id="btn_maiz"class="txt_blue txt_medium pad_topm f_left">Maíz</a>
+                <img class="f_left pop"src="images/productos/separador.png">
+                <a href="#" id="btn_todos"class="txt_blue txt_medium pad_topm f_left">Todos</a>
+            </div>
+
+            <div class="grid">
+
+                <div class="elem f_left izq canola"><br>
+                    <img  class="auto" src="images/industriales/tazon.png"><br>
+              <span class="txt_blue txt_middle auto">Canola<br></span>
+                    <div class="btn_ver" onclick="cargar('#change','ficha_aceite_canola.html'); asigna('producto_20');"></div>
+                </div>
+                
+                <div class="elem f_left izq copral"><br>
+                    <img  class="auto" src="images/industriales/tazon.png"><br>
+              <span class="txt_blue txt_middle auto">Copral<br></span>
+                    <div class="btn_ver" onclick="cargar('#change','ficha_aceite_copral.html'); asigna('producto_21');"></div>
+                </div>
+                
+                <div class="elem f_left izq soya"><br>
+                    <img  class="auto" src="images/industriales/tazon.png"><br>
+              <span class="txt_blue txt_middle auto">Soya<br></span>
+                    <div class="btn_ver" onclick="cargar('#change','ficha_aceite_soya.html'); asigna('producto_22');"></div>
+                </div>
+
+                <div class="elem f_left izq palma"><br>
+                    <img  class="auto" src="images/industriales/tazon.png"><br>
+              <span class="txt_blue txt_middle auto">Palma<br></span>
+                    <div class="btn_ver" onclick="cargar('#change','ficha_aceite_palma.html'); asigna('producto_20');"></div>
+                </div>
+                
+                <div class="elem f_left izq maiz"><br>
+                    <img  class="auto" src="images/industriales/tazon.png"><br>
+              <span class="txt_blue txt_middle auto">Maíz<br></span>
+                    <div class="btn_ver" onclick="cargar('#change','ficha_aceite_maiz.html'); asigna('producto_21');"></div>
+                </div>
+                
+                <div class="elem f_left izq palma"><br>
+                    <img  class="auto" src="images/industriales/tazon.png"><br>
+              <span class="txt_blue txt_middle auto">Oleína<br></span>
+                    <div class="btn_ver" onclick="cargar('#change','ficha_oleina_palma.html'); asigna('producto_22');"></div>
+                </div>
+                
+                <div class="elem f_left izq palma"><br>
+                    <img  class="auto" src="images/industriales/tazon.png"><br>
+              <span class="txt_blue txt_middle auto">Estearina<br></span>
+                    <div class="btn_ver" onclick="cargar('#change','ficha_estearina_palma.html'); asigna('producto_22');"></div>
+                </div>
+                
+            </div>
+
+
+        </div>
+</div>
+    <br><br>

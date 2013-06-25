@@ -1,0 +1,141 @@
+<script>
+$(document).ready(function(){
+  $("#btn_nina").click(function(){
+     $('.azo').fadeOut('slow');
+     $('.nina').fadeIn('slow');
+  });
+    $("#btn_azo").click(function(){
+     $('.nina').fadeOut('slow');
+     $('.azo').fadeIn('slow');
+  });
+
+    $("#btn_todos").click(function(){
+     $('.nina').fadeIn('slow');
+     $('.azo').fadeIn('slow');
+  });
+});
+</script>
+
+<div class="list_prod">
+        <div class="title ">
+            <div class="f_left relative">
+                <span id="tag" class="txt_blue txt_xlarge"><strong>PRODUCTOS</strong></span>
+
+            </div>
+            <div class="f_right sub_prod relative">
+              
+                <a href="#" 
+                onclick="cargar('#change','jabones.html');  ">
+                <img id="btn_jabones" class="f_left" src="images/productos/btn_jabones_activo.png"></a>
+
+                <a href="#"  onclick="cargar('#change','aceites.html');  "
+                onmouseover="over('btn_aceites','0px','130px');" 
+                onmouseout="out('btn_aceites','0px','130px');">
+                <img id="btn_aceites" class="f_left" src="images/productos/btn_aceites.png"></a>
+
+                <a href="#" onclick="cargar('#change','mantecas.html');"
+                onmouseover="over('btn_mantecas','0px','249px');"
+                onmouseout="out('btn_mantecas','0px','249px');">
+                <img id="btn_mantecas" class="f_left" src="images/productos/btn_mantecas.png"></a>
+            </div>
+        </div>
+<span class="txt_small txt_gray f_left pad_topm">Da click en una marca y conoce sus presentación.</span><br />
+        <div id="lista" class="lista ">
+		   <br><br>
+             <div class="sub_jabo f_left">
+                <span class="txt_small txt_gray f_left pad_topm">Marca:   </span>
+                <a href="#" class="btn"><img id="btn_nina" class="f_left pad_top" src="images/productos/logo_nina.png"></a>
+                <img class="f_left pop " src="images/productos/separador.png">
+                <a href="#"><img id="btn_azo" class="f_left pad_ntop" src="images/productos/logo_azo.png"></a>
+                <img class="f_left pop"src="images/productos/separador.png">
+                <a href="#" id="btn_todos"class="txt_blue txt_medium pad_topm">TODOS</a>
+
+            </div>
+
+            <div class="grid">
+
+                <div id="div1"class="elem f_left nina">
+                    <img  class="auto" src="images/productos/prod/nina_01.png">
+                    <span class="txt_blue txt_middle auto">Deslumbrante Blancura<br></span>
+                    <div class="btn_ver" onclick="cargar('#change','ficha.html'); asigna('producto_14');"></div>
+
+                </div>
+                <div id="div2" class="elem f_left middle nina">
+                    <img  class="auto" src="images/productos/prod/nina_02.png">
+                    <span class="txt_blue txt_middle auto">Limpieza Profunda<br></span>
+                    <div class="btn_ver" onclick="cargar('#change','ficha.html'); asigna('producto_15');"></div>
+
+                </div>
+                <div id="div3" class="elem f_left nina">
+                    <img  class="auto" src="images/productos/prod/nina_03.png">
+                    <span class="txt_blue txt_middle auto">Máxima Suavidad<br></span>
+                    <div class="btn_ver" onclick="cargar('#change','ficha.html'); asigna('producto_16');"></div>
+
+                </div>
+                
+		    <!-- <div class="elem f_left nina">
+                    
+                    <img  class="auto" src="images/productos/prod/nina-caja_azul.png">
+                    <span class="txt_blue txt_middle auto">Caja con 20 pzas. de 350gr<br></span>
+                    <div class="btn_ver" onclick="cargar('#change','ficha.html'); asigna('producto_17');"></div>
+
+                </div>
+                <div class="elem f_left middle nina">
+                    <img  class="auto" src="images/productos/prod/nina-caja_naranja.png">
+                    <span class="txt_blue txt_middle auto">Caja con 20 pzas. de 350gr<br></span>
+                    <div class="btn_ver" onclick="cargar('#change','ficha.html'); asigna('producto_18');"></div>
+
+                </div>
+                <div class="elem f_left nina">
+                    <img  class="auto" src="images/productos/prod/nina-caja_rosa.png">
+                    <span class="txt_blue txt_middle auto">Caja con 20 pzas. de 350gr<br></span>
+                    <div class="btn_ver" onclick="cargar('#change','ficha.html'); asigna('producto_19');"></div>
+
+                </div> -->
+
+                <div class="elem f_left azo">
+                    
+                    <img  class="auto" src="images/productos/prod/azo_01.png">
+                    <span class="txt_blue txt_middle auto">Suavidad Total<br></span>
+                    <div class="btn_ver" onclick="cargar('#change','ficha.html'); asigna('producto_17');"></div>
+
+                </div>
+                <div class="elem f_left middle azo">
+                    <img  class="auto" src="images/productos/prod/azo_02.png">
+                    <span class="txt_blue txt_middle auto">Suavidad Total<br></span>
+                    <div class="btn_ver" onclick="cargar('#change','ficha.html'); asigna('producto_18');"></div>
+
+                </div>
+                <div class="elem f_left azo">
+                    <img  class="auto" src="images/productos/prod/azo_03.png">
+                    <span class="txt_blue txt_middle auto">Blancura Extrema<br></span>
+                    <div class="btn_ver" onclick="cargar('#change','ficha.html'); asigna('producto_19');"></div>
+
+                </div>
+                
+<!--            <div class="elem f_left azo">
+                    
+                    <img  class="auto" src="images/productos/prod/azo-caja_azul.png">
+                    <span class="txt_blue txt_middle auto">Caja con 20 pzas. de 350gr<br></span>
+                    <div class="btn_ver" onclick="cargar('#change','ficha.html'); asigna('producto_17');"></div>
+                </div>
+                <div class="elem f_left middle azo">
+                    <img  class="auto" src="images/productos/prod/azo-caja_rojo.png">
+                    <span class="txt_blue txt_middle auto">Caja con 20 pzas. de 350gr<br></span>
+                    <div class="btn_ver" onclick="cargar('#change','ficha.html'); asigna('producto_18');"></div>
+
+                </div>
+                <div class="elem f_left azo">
+                    <img  class="auto" src="images/productos/prod/azo-caja_verde.png">
+                    <span class="txt_blue txt_middle auto">Caja con 20 pzas. de 350gr<br></span>
+                    <div class="btn_ver" onclick="cargar('#change','ficha.html'); asigna('producto_19');"></div>
+
+                </div>-->
+                
+
+            </div>
+
+
+        </div>
+</div>
+    <br><br>

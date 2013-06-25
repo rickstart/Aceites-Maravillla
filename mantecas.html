@@ -1,0 +1,119 @@
+<script>
+$(document).ready(function(){
+  $("#btn_combate").click(function(){
+     $('.colon').fadeOut('slow');
+     $('.combate').fadeIn('slow');
+  });
+    $("#btn_colon").click(function(){
+     $('.combate').fadeOut('slow');
+     $('.colon').fadeIn('slow');
+  });
+
+    $("#btn_todos").click(function(){
+     $('.combate').fadeIn('slow');
+     $('.colon').fadeIn('slow');
+  });
+});
+</script>
+
+<div class="list_prod3">
+        <div class="title ">
+            <div class="f_left relative">
+                <span id="tag" class="txt_blue txt_xlarge"><strong>PRODUCTOS</strong></span>
+
+            </div>
+            <div class="f_right sub_prod relative">
+              
+                <a href="#" 
+                onmouseover="over('btn_jabones','0px','12px');" 
+                onmouseout="out('btn_jabones','0px','0px');"
+                onclick="cargar('#change','jabones.html');  ">
+                <img id="btn_jabones" class="f_left" src="images/productos/btn_jabones.png"></a>
+
+
+                <a href="#"  onclick="cargar('#change','aceites.html');  "
+                onmouseover="over('btn_aceites','0px','130px');" 
+                onmouseout="out('btn_aceites','0px','121px');">
+                <img id="btn_aceites" class="f_left" src="images/productos/btn_aceites.png"></a>
+
+                <a href="#"  onclick="cargar('#change','mantecas.html');  ">
+                <img id="btn_mantecas" class="f_left" src="images/productos/btn_mantecas_activo.png"></a>
+            </div>
+        </div>
+<span class="txt_small txt_gray f_left ">Da click en una marca y conoce sus presentación.</span>
+     <div id="lista" class="lista ">
+        <br><br>
+            <div class="sub_jabo f_left">
+                <span class="txt_small txt_gray f_left pad_topm">Marca:   </span>
+                <a href="#" id="btn_combate"class="txt_blue txt_medium pad_topm f_left">Combate</a>
+                <img class="f_left pop " src="images/productos/separador.png">
+                <a href="#" id="btn_colon"class="txt_blue txt_medium pad_topm f_left">Colon</a>
+                <img class="f_left pop"src="images/productos/separador.png">
+                <a href="#" id="btn_todos"class="txt_blue txt_medium pad_topm f_left">TODOS</a>
+
+            </div>
+
+
+            <div class="grid">
+
+                <div class="elem f_left izq combate">
+
+                    <img  class="auto" src="images/productos/prod/combate-caja.png">
+                    <span class="txt_blue txt_middle auto">Combate<br></span>
+                    <div class="btn_ver" onclick="cargar('#change','ficha.html'); asigna('producto_20');"></div>
+
+                </div>
+                <div class="elem f_left izq colon">
+                    <img  class="auto" src="images/productos/prod/colon-caja.png">
+                    <span class="txt_blue txt_middle auto">Colón T1 25Kg<br></span>
+                    <div class="btn_ver" onclick="cargar('#change','ficha.html'); asigna('producto_21');"></div>
+
+                </div>
+                <div class="elem f_left izq colon">
+                    <img  class="auto" src="images/productos/prod/colon-caja.png">
+                    <span class="txt_blue txt_middle auto">Colón T2 25Kg<br></span>
+                    <div class="btn_ver" onclick="cargar('#change','ficha.html'); asigna('producto_22');"></div>
+
+                </div>
+
+                <div class="elem f_left izq colon">
+                    
+                    <img  class="auto" src="images/productos/prod/colon-caja.png">
+                    <span class="txt_blue txt_middle auto">Colón T3 25Kg<br></span>
+                    <div class="btn_ver" onclick="cargar('#change','ficha.html'); asigna('producto_23');"></div>
+
+                </div>
+                <div class="elem f_left izq colon">
+                    <img  class="auto" src="images/productos/prod/colon-caja.png">
+                    <span class="txt_blue txt_middle auto">Colon T5 25Kg<br></span>
+                    <div class="btn_ver" onclick="cargar('#change','ficha.html'); asigna('producto_24');"></div>
+
+                </div>
+                <div class="elem f_left izq colon">
+                    <img  class="auto" src="images/productos/prod/colon-caja_24kg.png">
+                    <span class="txt_blue txt_middle auto">Colon T1 24kg<br></span>
+                    <div class="btn_ver" onclick="cargar('#change','ficha.html'); asigna('producto_25');"></div>
+
+                </div>
+                <div class="elem f_left izq colon">
+                    
+                    <img  class="auto" src="images/productos/prod/colon-caja_24kg.png">
+                    <span class="txt_blue txt_middle auto">Colon T2 24kg<br></span>
+                    <div class="btn_ver" onclick="cargar('#change','ficha.html'); asigna('producto_26');"></div>
+
+                </div>
+                <div class="elem f_left izq colon">
+                    <img  class="auto" src="images/productos/prod/colon-caja_24kg.png">
+                    <span class="txt_blue txt_middle auto">Colon T3 24kg<br></span>
+                    <div class="btn_ver" onclick="cargar('#change','ficha.html'); asigna('producto_27');"></div>
+
+                </div>
+               
+              
+
+            </div>
+
+
+        </div>
+</div>
+    <br><br>

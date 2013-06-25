@@ -1,0 +1,1450 @@
+
+body 
+{
+	background: url("../images/backgrounds/background.jpg") repeat-x;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+html
+{
+	height: 100%;
+}
+a{text-decoration:none} 
+
+.cont_flecha
+{
+	width: 850px;
+	position: relative;
+	margin: auto;
+}
+.wrapper
+{
+
+	min-height: 100%;
+	height: auto;   
+	width: 99.5%;
+	margin: auto;      
+ 
+}
+
+.wrapper:after
+{
+	width: 100%;
+	height:30px;
+	display:block;
+	clear:both;
+}
+.push
+{
+	height: 30px;
+}
+
+.fotter
+{
+	
+	height: 30px;
+	width:835px;
+	margin:auto;
+	position: relative;
+	/*padding-top: 30px;*/
+	background: url(../images/home/fotter.png) no-repeat center;
+	background-size: 835px 30px;
+	margin-bottom:0px;
+
+	
+
+}
+
+.fotter_image
+{
+	width: 835px;
+	z-index: -1;
+
+	
+}
+
+.txt_foot
+{
+	margin-top: 8px;
+	float: right;
+	margin-right: 20px;
+	
+
+}
+/***** General ******/
+.border
+{
+	border: 1px #ccc solid;
+}
+.d_over
+{
+	overflow: hidden;
+}
+
+.f_right
+{
+	float: right;
+}
+
+.f_left
+{
+	float: left;
+}
+
+
+
+/***** MENU ******/
+.menu
+{
+	/*background: url("../images/backgrounds/bg_menu2.png") no-repeat;*/
+	width: 99.5%;
+	height: 100px;
+	position: absolute;
+	top:65px;
+	z-index: 10;	
+}
+
+.nav
+{
+	/*background: url("../images/backgrounds/bg_menu2.png") no-repeat;*/
+	width: 835px;
+	height: 100px;
+	position:relative;
+	top:0px;
+	z-index: 10;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+
+.nav_btn 
+{
+	position: absolute;
+	top:4px;
+}
+#home
+{
+	left: 55px;
+	border-right: 2px #DADADA solid;
+}
+#nosotros
+{
+	left: 160px;
+	border-right: 2px #DADADA solid;
+}
+#productos
+{
+	left: 265px;
+	border-right: 2px #DADADA solid;
+}
+#industriales
+{
+	left: 370px;
+	border-right: 2px #DADADA solid;
+}
+#bolsa
+{
+	left: 475px;
+	border-right: 2px #DADADA solid;
+}
+#pedido
+{
+	left: 580px;
+	border-right: 2px #DADADA solid;
+}
+#contacto
+{
+	left: 685px;
+	
+}
+
+
+.back
+{
+	position: absolute;
+	z-index: -1;
+	left:0px;
+	width: 835px;
+	top:0px;
+	height:95px;
+}
+
+.title_top
+{
+	position: absolute;
+	top: -35px;
+}
+
+
+/****** HOME *******/
+
+
+
+
+.slider-wrapper 
+{ 
+	width: 100%; 	
+	z-index: -1;
+	min-width: 850px;
+
+}
+
+
+
+.banner_home
+{
+	width: 364px;
+	height: 270px;
+	background-color:#fff;
+	padding: 10px 10px 10px 10px;
+	margin: 0 10px 0 10px;
+	
+	
+}
+.container
+{
+	position: relative;
+	margin: auto;
+	width: 835px;
+	overflow: hidden;
+	padding: 40px 30px 60px 30px;
+	margin-top:-15px;
+		
+}
+.d_left
+{
+	left: 0px;
+	top: 0px;
+}
+.d_right
+{
+	top: 0px;
+	left: 410px;
+}
+
+.one_edge_shadow 
+{
+  -moz-box-shadow:    1px 1px 3px 1px #ccc;
+  -webkit-box-shadow: 1px 1px 3px 1px #ccc;
+  box-shadow:         0px 8px 6px 0px #ccc;
+  -moz-border-radius:15px;
+  -webkit-border-radius:15px;
+  border-radius:15px;
+}
+
+/****** NOSOTROS ********/
+
+.nosotros
+{
+	position: relative;
+	padding-top: 200px;
+	width: 750px;
+	margin: auto;
+	overflow: hidden;
+	
+
+}
+.sub_nos
+{
+	background: url(../images/nosotros/bg_submenu.png) no-repeat;
+	height: 48px;
+	width: 258px;
+	position: relative;
+	padding-bottom: 20px;
+}
+.sub_nos img
+{
+	position: absolute;
+}
+
+#btn_historia
+{
+
+	left: 0px;
+}
+
+#btn_historia_roll
+{
+
+	left: 13px;
+}
+#btn_filosofia
+{
+	left: 131px;
+
+}
+
+.fil_col
+{
+	width:342px;
+}
+
+.pleca_blue
+{
+	background: url(../images/nosotros/pleca_01.png) no-repeat;
+	background-size: 342px 26px;
+	height: 26px;
+	width: 342px;
+	padding: 5px 5px 5px 5px;
+}
+
+.ul_pad
+{
+	padding-left: 15px;
+}
+
+
+/******* Historia ********/
+
+.content
+{
+	width: 750px;
+	position: relative;
+}
+
+.historia
+{
+	width: 650px;/*720*/
+	height: 500px;
+	/*overflow:auto;
+	overflow-y: hidden;
+	-ms-overflow-y: hidden;
+	*/
+	overflow: hidden;
+	margin-left:50px;
+	/*margin: 0 auto;*/
+}
+
+#scroller
+{
+	width: 2000px; 
+	height: 100%; 
+	left: 0px; 
+	position: relative
+}
+
+.img_timeline
+{
+	height: 138px;
+	width: 2000px;
+}
+
+.img_timeline img
+{
+	padding-left: 90px;
+	float: left;
+	width: 105px;
+}
+
+.img_time
+{
+	padding-left: 90px;
+	padding-right: 0;
+	float: left;
+	width: 105px;
+}
+
+.point_timeline
+{
+	background: url(../images/nosotros/linea.jpg) repeat-x;
+	background-position:center; 
+	height: 27px;
+	width: 2000px;
+}
+
+.point_timeline img
+{
+	float: left;
+}
+.point
+{
+	margin-left: 162px;
+	
+}
+.point2
+{
+	margin-left: 173px;
+	
+}
+.point3
+{
+	margin-left: 170px;
+	
+}
+.point4
+{
+	margin-left: 170px;
+	
+}
+.point5
+{
+	margin-left: 165px;
+	
+}
+
+
+.point_i
+{
+	margin-left: 132px;
+
+
+}
+.txt_timeline
+{
+	width: 2000px;
+	height: 250px;
+
+	
+
+}
+.time_relato
+{
+	width: 105px;/*105*/
+	float: left;
+	padding-left: 90px;
+	padding-right: 0;
+	
+	
+}
+
+
+.flechas
+{
+	position: absolute;
+	z-index: 1;
+	width:100%;
+	top:115px;
+	
+}
+
+
+
+#timeline
+{
+	width:100%;
+	
+	position: relative;
+}
+
+#timeline div.scrollableArea *
+{
+	
+	/* If you don't want the images in the scroller to be selectable, try the following
+		block of code. It's just a nice feature that prevent the images from
+		accidentally becoming selected/inverted when the user interacts with the scroller. */
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-o-user-select: none;
+	user-select: none;
+}
+
+
+
+
+/******* PRODUCTOS ********/
+
+.productos
+{
+	
+	padding-top: 200px;
+	width: 750px;
+	margin: auto;
+	
+
+}
+
+
+.prod
+{
+	position: relative;
+	margin-bottom: 100px;
+
+}
+
+.btn_pro
+{
+	position: absolute;
+}
+
+
+
+/*******PRODUCTOS JABONES ********/
+.sub_prod
+{
+	background: url(../images/productos/submenu.png) no-repeat;
+	height: 48px;
+	width: 370px;
+	padding-bottom: 20px;
+	position: relative;
+}
+
+.sub_prod img
+{
+	position: absolute;
+}
+
+#btn_jabones
+{
+	left: 13px;
+}
+
+#btn_aceites
+{
+	left: 121px;
+}
+
+
+#btn_mantecas
+{
+	left: 249px;
+}
+
+
+.list_prod
+{
+	position: relative;
+	padding-top: 200px;
+	width: 750px;
+	margin: auto;
+}
+
+.list_prod2
+{
+	position: relative;
+	padding-top: 200px;
+	width: 750px;
+	margin: auto;
+	height: 1200px;
+}
+.list_prod3
+{
+	position: relative;
+	padding-top: 200px;
+	width: 750px;
+	margin: auto;
+	height: 750px;
+}
+
+.lista
+{
+	position: relative;
+	height: 550px;
+
+}
+.sub_jabo
+{
+	width: 550px;
+	position: relative;
+}
+
+.pop
+{
+	padding: 10px 15px 10px 15px;
+}
+
+.pad_top
+{
+	position: relative;
+	top: 10px;
+	padding-left: 10px;
+}
+
+.pad_topm
+{
+	position: relative;
+	top: 15px;
+}
+
+
+.grid
+{
+	width: 750px;
+	height: 450px;
+	top: 130px;
+	position: absolute;
+}
+
+.elem
+{
+	width: 209px;
+	height: 212px;
+	margin: auto;
+	text-align: center;
+	background: url(../images/productos/bg_productos.png) no-repeat;
+}
+
+.izq
+{
+	margin-right:40px;
+}
+
+.middle
+{
+	margin: 0 61px 0 62px;
+}
+
+.btn_ver
+{
+	width: 70px;
+	height: 24px;
+	margin: auto;
+	cursor: pointer;
+	background: url(../images/productos/btn_ver.png) no-repeat;
+
+}
+
+.btn_ver:hover
+{
+	background: url(../images/productos/btn_ver_roll.png) no-repeat;
+
+}
+
+
+/******* FICHA TECNICA ********/
+.ficha
+{
+	width: 738px;
+	height: auto;
+	margin: auto;
+	margin-top: 200px;
+	margin-bottom: 50px;
+
+
+
+}
+
+.f_middle
+{
+	margin: 0 15px 0 15px;
+	width: 256px;
+	
+}
+.prop
+{
+	max-height: 292px;
+	overflow-y:auto;
+	ms-overflow-y:auto;
+}
+.ficha_der
+{
+	width: 299px;
+	
+
+}
+
+.pleca_izq
+{
+	width: 256px;
+	height: 26px;
+	padding-top: 4px;
+	background: url(../images/productos/pleca_izq.png) no-repeat;
+}
+
+.pleca_der
+{
+	width: 299px;
+	height: 26px;
+	padding-top: 4px;
+	background: url(../images/productos/pleca_der.png) no-repeat;
+
+
+}
+
+.ficha_txt
+{
+	padding: 5px 3px 5px 5px;
+	position: relative;
+}
+
+.ficha_con
+{
+	background-color: #E1E1E1;
+	padding: 10px 10px 10px 10px;
+	margin-bottom: 20px;
+	margin-top: -10px;
+
+}
+
+.title
+{
+	width: 100%;
+	position: relative;
+}
+.relative
+{
+	position: relative;
+	z-index: 1;
+}
+/******* INDUSTRIALES ********/
+
+.industriales
+{
+	position: relative;
+	padding: 200px 21px 0 22px;
+	width: 860px;
+	margin: auto;
+	overflow: hidden;
+}
+
+.videoindustrial
+{
+	position:relative;
+	width:757px;
+	height:250px;
+	background:url(../images/industriales/banner_video.jpg) no-repeat;
+	left:37px;
+}
+#btn_aceites_ind
+{
+	left: 12px;
+}
+
+
+#btn_mantecas_ind
+{
+	left: 121px;
+}
+
+#btn_pastas_ind
+{
+	left: 249px;
+}
+
+/******* BOLSA DE TRABAJO ****/
+
+.bolsa
+{
+	position: relative;
+	padding: 200px 21px 0 22px;
+	width: 704px;
+	height:auto;
+	margin: auto;
+	overflow: hidden;
+
+}
+
+.pleca_bolsa
+{
+	background: url(../images/bolsa/pleca.png) no-repeat;
+	height: 26px;
+	width: 704px;
+	padding: 5px 5px 5px 5px;
+}
+
+.pleca_mail
+{
+	background: url(../images/bolsa/pleca_mail_c.png) no-repeat;
+	height: 25px;
+	width: 158px;
+	padding: 4px 4px 4px 6px;
+}
+.vacante
+{
+	background-color: #fff;
+	width: 704px;
+	height: 72px;
+	-moz-border-radius:15px;
+  	-webkit-border-radius:15px;
+  	border-radius:15px;
+  	overflow: hidden;
+}
+ .casco
+ {
+ 	background: url(../images/bolsa/bg_middle.png) no-repeat;
+ 
+	height: 72px;
+	width: 704px;
+	padding: 0;
+	
+	color:#fff;
+	
+
+ }
+ 
+ .colBolsa
+ {
+	 float:left;
+	 width:100px;
+	 height:auto;
+	 margin-top:10px;
+	 margin-left:15px;
+ }
+  .colBolsa1
+ {
+	 float:left;
+	 width:70px;
+	 height:auto;
+	 margin-top:10px;
+	 margin-left:15px;
+	 border-right:dotted 1px #999;
+	 color:#808080;
+ }
+ 
+ .colBolsa2
+ {
+	 float:left;
+	 width:140px;
+	 height:auto;
+	 margin-top:10px;
+	 padding-left:10px;
+	 padding-right:10px;
+	 border-right:dotted 1px #999;
+	 color:#808080;
+ }
+ 
+ .colBolsa3
+ {
+	 float:left;
+	 width:140px;
+	 height:auto;
+	 margin-top:10px;
+	 padding-left:10px;
+	 padding-right:5px;
+	 border-right:dotted 1px #999;
+	 color:#808080;
+	 overflow: auto;
+ }
+  .colBolsa4
+ {
+	 float:left;
+	 width:160px;
+	 height:auto;
+	 margin-top:10px;
+	 padding-left:10px;
+	 padding-right:5px;
+	 color:#808080;
+	 overflow: auto;
+ }
+ 
+
+ /******* PEDIDOS *********/
+
+
+.form_pedido
+{
+	width: 232px;
+	height: 100%;
+
+}
+
+
+.form_select
+{
+	float: right;
+	margin-right: 10px;
+	width: 150px;
+	border-radius: 8px;
+	border: 1px #ccc solid;
+
+}
+.form_area
+{
+	float: right;
+	margin-right: 10px;
+	width: 210px;
+	border-radius: 8px;
+	border: 1px #ccc solid;
+
+}
+.btn_send
+{
+	width: 35%;
+	float: right;
+	margin-right: 10px;
+	margin-top: 10px;
+}
+
+.art_form
+{
+	width: 230px;
+	height: auto;
+	position: relative;
+	overflow: auto;
+}
+
+.txt_form
+{
+	margin-left: 35px;
+	
+}
+.icon_form
+{
+	width: 35px;
+
+}
+
+.pleca_form
+{
+	width: 233px;
+	height: 26px;
+	padding-top: 4px;
+	background: url(../images/pedido/pleca.png) no-repeat;
+}
+.content_form
+{
+	background-color: #E1E1E1;
+	padding: 10px 5px 10px 5px;
+	margin-bottom: 20px;
+	margin-top: -5px;
+	overflow: hidden;
+	width:223px;
+
+}
+
+ .pedido
+{
+	width: 750px;
+	height: 600px;
+	margin: auto;
+	margin-top: 200px;
+}
+ .mexico
+ {
+ 	position: relative;
+ 	width: 441px;
+ 	height: 312px;
+ 	background: url(../images/pedido/mapa.png) no-repeat;
+
+ }
+ .gota
+ {
+ 	position: absolute;
+
+ }
+.estate
+{
+	position: absolute;
+	display: none;
+}
+/**** Aguascalientes *****/
+
+#aguascalientes
+{
+	left: 200px;
+ 	top: 188px;
+
+}
+
+ #cedi_1
+ {
+ 	
+ 	left: 203px;
+ 	top: 185px;
+
+ }
+/**** Guanajuato ******/
+#guanajuato
+{
+	left: 212px;
+ 	top: 197px;
+
+}
+
+ #cedi_2
+ {
+ 	
+ 	left: 212px;
+ 	top: 202px;
+
+ }
+
+ #cedi_3
+ {
+ 	
+ 	left: 223px;
+ 	top: 212px;
+
+ }
+
+ /****Queretaro*****/
+
+ #queretaro
+ {
+ 	left: 235px;
+ 	top: 200px;
+ }
+ #cedi_4
+ {
+ 	
+ 	left: 237px;
+ 	top: 210px;
+
+ }
+
+ /****** tamaulipas *******/
+
+ #tamaulipas
+ {
+ 	left: 242px;
+ 	top: 125px;
+
+ }
+  #cedi_5
+ {
+ 	
+ 	left: 260px;
+ 	top: 172px;
+
+ }
+
+
+/***** hidalgo *****/
+
+#hidalgo
+{
+	left: 247px;
+ 	top: 205px;
+}
+  #cedi_6
+ {
+ 	
+ 	left: 255px;
+ 	top: 216px;
+
+ }
+
+ /****** tlaxcala ********/
+ #tlaxcala
+ {
+ 	left: 263px;
+ 	top: 231px;
+
+ }
+  #cedi_7
+ {
+ 	
+ 	left: 268px;
+ 	top: 225px;
+
+ }
+
+ /****** edo_mexico ******/
+
+ #edo_mexico
+ {
+ 	left: 238px;
+ 	top: 223px;
+
+ }
+  #cedi_8
+ {
+ 	
+ 	left: 245px;
+ 	top: 228px;
+
+ }
+/****** morelos******/
+ #morelos
+ {
+ 	left: 254px;
+ 	top: 242px;
+ }
+  #cedi_9
+ {
+ 	
+ 	left: 256px;
+ 	top: 238px;
+
+ }
+
+ /***** puebla *****/
+
+ #puebla
+ {
+ 	left: 260px;
+ 	top: 213px;
+ }
+
+ #cedi_10
+ {
+ 	
+ 	left: 268px;
+ 	top: 235px;
+
+ }
+
+  #cedi_11
+ {
+ 	
+ 	left: 278px;
+ 	top: 235px;
+
+ }
+
+/****** Guerrero ******/
+
+#guerrero
+{
+	left: 211px;
+ 	top: 246px;
+
+}
+
+ #cedi_12
+ {
+ 	
+ 	left: 240px;
+ 	top: 268px;
+
+ }
+
+ /***** san_luis_potosi ****/
+
+ #san_luis_potosi
+ {
+ 	left: 209px;
+ 	top: 153px;
+ }
+   
+ #cedi_13
+ {
+ 	
+ 	left: 226px;
+ 	top: 182px;
+
+ }
+
+ /***** oaxaca ****/
+
+ #oaxaca
+ {
+ 	left: 267px;
+ 	top: 247px;
+ }
+
+ #cedi_14
+ {
+ 	
+ 	left: 292px;
+ 	top: 267px;
+
+ }
+
+ #cedi_15
+ {
+ 	
+ 	left: 315px;
+ 	top: 280px;
+
+ }
+
+ /******tabasco *****/
+
+ #tabasco
+ {
+ 	left: 336px;
+ 	top: 245px;
+ }
+
+ #cedi_16
+ {
+ 	
+ 	left: 356px;
+ 	top: 250px;
+
+ }
+
+ /***** veracruz ******/
+
+ #veracruz
+ {
+ 	left: 265px;
+ 	top: 187px;
+
+ }
+
+  #cedi_17
+ {
+ 	
+ 	left: 272px;
+ 	top: 203px;
+
+ }
+  #cedi_18
+ {
+ 	
+ 	left: 288px;
+ 	top: 216px;
+
+ }
+  #cedi_19
+ {
+ 	
+ 	left: 286px;
+ 	top: 240px;
+
+ }
+  #cedi_20
+ {
+ 	
+ 	left: 306px;
+ 	top: 243px;
+
+ }
+
+  #cedi_21
+ {
+ 	
+ 	left: 316px;
+ 	top: 250px;
+
+ }
+/******* CONTACTO *********/
+
+.contacto
+{
+
+	padding: 200px 21px 0 22px;
+	width: 750px;
+	margin: auto;
+
+	
+}
+
+.ubicacion
+{
+	width: 720px;
+	height: 308px;
+	position: relative;
+	padding-bottom: 50px;
+	
+
+}
+
+.adress
+{
+	width: 90%;
+	height: 80%;
+	padding: 10% 5% 10% 10%;
+}
+.pad_left
+{
+	padding-left: 10%;
+}
+
+.marco_mapa
+{
+	width: 443px;
+	height: 308px;
+	position: relative;
+	background: url(../images/contactanos/bg_googlemap_activo.png) no-repeat;
+
+}
+
+.mapa
+{
+	margin: auto;
+	padding: 30px 20px 20px 20px;
+}
+
+.contacto_corp
+{
+	width: 269px;
+	height: 154px;
+	position: relative;
+	background: url(../images/contactanos/seleccion_corp.png) no-repeat;
+}
+.contacto_corp:hover
+{
+	background: url(../images/contactanos/seleccion_roll_corp.png) no-repeat;
+	cursor: pointer;
+	color:#fff;
+
+}
+.contacto_corp:active
+{
+	background: url(../images/contactanos/seleccion_activo_corp.png) no-repeat;
+	cursor: pointer;
+	color:#fff;
+}
+.contacto_corp_activo
+{
+	background: url(../images/contactanos/seleccion_activo_corp.png) no-repeat;
+	cursor: pointer;
+	position: relative;
+	color:#fff;
+}
+
+.contacto_plan
+{
+	width: 269px;
+	height: 154px;
+	position: relative;
+	background: url(../images/contactanos/seleccion_plan.png) no-repeat;
+}
+.contacto_plan:hover
+{
+	background: url(../images/contactanos/seleccion_roll_plan.png) no-repeat;
+	cursor: pointer;
+	color:#fff;
+
+}
+.contacto_plan:active
+{
+	background: url(../images/contactanos/seleccion_activo_plan.png) no-repeat;
+	cursor: pointer;
+	color:#fff;
+}
+.contacto_plan_activo
+{
+	background: url(../images/contactanos/seleccion_activo_plan.png) no-repeat;
+	cursor: pointer;
+	position: relative;
+	color:#fff;
+}
+
+
+.contact_1, .contact_2
+{
+	width: 269px;
+	height: 154px;
+	position: relative;
+	background: url(../images/contactanos/seleccion.png) no-repeat;
+
+
+}
+
+.contact_1:hover, .contact_2:hover
+{
+	
+	background: url(../images/contactanos/seleccion_roll.png) no-repeat;
+	cursor: pointer;
+	color:#fff;
+
+}
+
+.contact_12
+{
+	width: 269px;
+	height: 154px;
+	position: relative;
+	
+	background: url(../images/contactanos/seleccion_activo.png) no-repeat;
+	color:#fff;
+
+}
+
+.contact_1:active, .contact_2:active
+{
+	
+	background: url(../images/contactanos/seleccion_activo.png) no-repeat;
+
+}
+
+
+/******* TEXT STYLES ********/
+
+.txt_medium
+{
+	font-size: 15px;
+}
+.txt_large
+{
+	font-size: 18px;
+}
+.txt_xlarge
+{
+	font-size: 22px;
+}
+.txt_small
+{
+	font-size: 12px;
+}
+
+.txt_xsmall
+{
+	font-size: 10px;
+}
+.txt_bold
+{
+	font-weight: bold;
+}
+
+.txt_white
+{
+	color: #fff;
+}
+.txt_gray
+{
+	color: #808080;
+}
+.txt_black
+{
+	color: #000;
+}
+.txt_blue
+{
+	color: #008fc4;
+}
+
+.txt_left
+{
+	text-align: left;
+}
+.txt_justify
+{
+	text-align: justify;
+
+}
+
+.txt_small_2
+{
+	font-size: 12px;
+	line-height:1.2em;
+	color:#000;/*fff*/
+}
+
+.txt_mailbolsa
+{
+	font-size: 10px;
+	line-height:1.2em;
+	color: #000;
+	padding-left:7px;
+	padding-top:-50px;
+}
+
+.txt_small_contacto
+{
+	font-size: 12px;
+	line-height:1.2em;
+	color:#808080;
+}
+.txt_small_contacto:link
+{
+	color:#808080;
+}
+.txt_small_contacto:alink
+{
+	color:#808080;
+}
+.txt_small_contacto:hover
+{
+	color:#fff;
+}
+
+# menusProductos {
+	width:1000px;
+	height:237px;
+	margin:0 auto;
+}
+
+# menusProductosInd {
+	width:840px;
+	height:237px;
+	margin:0 auto;
+	margin-top:550px;
+}
+
+#sub-menu-ficha {
+	float:right;
+	margin-top:180px;
+	margin-right:250px;}
+	
+.clear {clear:both;}
+
+#cont-ficha {
+	margin-top:-210px;
+	}

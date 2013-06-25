@@ -1,0 +1,175 @@
+<script>
+$(document).ready(function(){
+  $("#btn_maravilla").click(function(){
+     $('.soraya').fadeOut('slow');
+     $('.nina').fadeOut('slow');
+     $('.colon').fadeOut('slow');
+     $('.maravilla').fadeIn('slow');
+	 $('.maizol').fadeOut('slow');
+  });
+     $("#btn_maizol").click(function(){
+     $('.soraya').fadeOut('slow');
+     $('.nina').fadeOut('slow');
+     $('.colon').fadeOut('slow');
+     $('.maravilla').fadeOut('slow');
+	 $('.maizol').fadeIn('slow');
+  });
+    $("#btn_soraya").click(function(){
+     $('.soraya').fadeIn('slow');
+     $('.nina').fadeOut('slow');
+     $('.colon').fadeOut('slow');
+     $('.maravilla').fadeOut('slow');
+	 $('.maizol').fadeOut('slow');
+  });
+    $("#btn_nina").click(function(){
+     $('.soraya').fadeOut('slow');
+     $('.nina').fadeIn('slow');
+     $('.colon').fadeOut('slow');
+     $('.maravilla').fadeOut('slow');
+	 $('.maizol').fadeOut('slow');
+  });
+    $("#btn_colon").click(function(){
+     $('.soraya').fadeOut('slow');
+     $('.nina').fadeOut('slow');
+     $('.colon').fadeIn('slow');
+     $('.maravilla').fadeOut('slow');
+	 $('.maizol').fadeOut('slow');
+  });
+
+    $("#btn_todos").click(function(){
+     $('.soraya').fadeIn('slow');
+     $('.nina').fadeIn('slow');
+     $('.colon').fadeIn('slow');
+     $('.maravilla').fadeIn('slow');
+	 $('.maizol').fadeIn('slow');
+  });
+});
+</script>
+
+<div class="list_prod2">
+        <div class="title ">
+            <div class="f_left relative">
+                <span id="tag" class="txt_blue txt_xlarge"><strong>PRODUCTOS</strong></span>
+
+            </div>
+            <div class="f_right sub_prod relative">
+              
+                <a href="#" 
+                onmouseover="over('btn_jabones','0px','12px');" 
+                onmouseout="out('btn_jabones','0px','0px');"
+                onclick="cargar('#change','jabones.html');  ">
+                <img id="btn_jabones" class="f_left" src="images/productos/btn_jabones.png"></a>
+
+                <a href="#" 
+                 onclick="cargar('#change','aceites.html');  "
+                >
+                <img id="btn_aceites" class="f_left" src="images/productos/btn_aceites_activo.png"></a>
+
+                <a href="#"  onclick="cargar('#change','mantecas.html');  "
+                onmouseover="over('btn_mantecas','0px','249px');"
+                onmouseout="out('btn_mantecas','0px','249px');">
+                <img id="btn_mantecas" class="f_left" src="images/productos/btn_mantecas.png"></a>
+            </div>
+        </div>
+<span class="txt_small txt_gray f_left pad_topm">Da click en una marca y conoce sus presentación.</span><br />
+        <div id="lista" class="lista ">
+            <br><br>
+              <div class="sub_jabo f_left">
+                <span class="txt_small txt_gray f_left pad_topm">Marca:   </span>
+                <a href="#" id="btn_maravilla"class="txt_blue txt_medium pad_topm f_left">Maravilla</a>
+                <img class="f_left pop " src="images/productos/separador.png">
+                <a href="#" id="btn_maizol"class="txt_blue txt_medium pad_topm f_left"> Maizol</a>
+                <img class="f_left pop " src="images/productos/separador.png">
+                <a href="#" id="btn_soraya"class="txt_blue txt_medium pad_topm f_left">Soraya</a>
+                <img class="f_left pop " src="images/productos/separador.png">
+                <a href="#" id="btn_nina"class="txt_blue txt_medium pad_topm f_left">Niña</a>
+                <img class="f_left pop"src="images/productos/separador.png">
+                <a href="#" id="btn_colon"class="txt_blue txt_medium pad_topm f_left">Colon</a>
+                <!--<img class="f_left pop"src="images/productos/separador.png">
+                <a href="#" id="btn_todos"class="txt_blue txt_medium pad_topm f_left">TODOS</a>-->
+            </div>
+
+            <div class="grid">
+                <div class="elem f_left izq maravilla">
+                    <img  class="auto" src="images/productos/prod/maravilla_500ml.png">
+                    <span class="txt_blue txt_middle auto">Botella 500 ml<br></span>
+                    <div class="btn_ver" onclick="cargar('#change','ficha.html'); asigna('producto_1');"></div>
+                </div>
+                
+                <div class="elem f_left izq maravilla">
+                    <img  class="auto" src="images/productos/prod/maravilla_1L.png">
+                    <span class="txt_blue txt_middle auto">Botella 1L<br></span>
+                    <div class="btn_ver" onclick="cargar('#change','ficha.html'); asigna('producto_2');"></div>
+                </div>
+                
+                <div class="elem f_left izq maravilla">
+                    <img  class="auto" src="images/productos/prod/maravilla_5L.png">
+                    <span class="txt_blue txt_middle auto">Garrafa 5L<br></span>
+                    <div class="btn_ver" onclick="cargar('#change','ficha.html'); asigna('producto_3');"></div>
+                </div>
+
+                <div class="elem f_left izq maravilla">
+                    <img  class="auto" src="images/productos/prod/maravilla_20L.png">
+                    <span class="txt_blue txt_middle auto">Bidon 20L<br></span>
+                    <div class="btn_ver" onclick="cargar('#change','ficha.html'); asigna('producto_4');"></div>
+                </div>
+                         
+               <div class="elem f_left izq soraya">
+                    <img  class="auto" src="images/productos/prod/soraya_850ml.png">
+                    <span class="txt_blue txt_middle auto">Botella 890 ml<br></span>
+                    <div class="btn_ver" onclick="cargar('#change','ficha.html'); asigna('producto_5');"></div>
+                </div>
+                
+                <div class="elem f_left izq soraya">
+                    <img  class="auto" src="images/productos/prod/soraya_20L.png">
+                    <span class="txt_blue txt_middle auto">Bidon 20L<br></span>
+                    <div class="btn_ver" onclick="cargar('#change','ficha.html'); asigna('producto_6');"></div>
+                </div>
+                            
+                <div class="elem f_left izq maizol">
+                    <img  class="auto" src="images/productos/prod/maizol_1L.png">
+                    <span class="txt_blue txt_middle auto">Botella 1L<br></span>
+                    <div class="btn_ver" onclick="cargar('#change','ficha.html'); asigna('producto_7');"></div>
+
+                </div>
+                <div class="elem f_left izq maizol">
+                    <img  class="auto" src="images/productos/prod/maizol_20L.png">
+                    <span class="txt_blue txt_middle auto">Bidon 20L<br></span>
+                    <div class="btn_ver" onclick="cargar('#change','ficha.html'); asigna('producto_8');"></div>
+                </div>
+                
+                <div class="elem f_left izq nina">
+                    <img  class="auto" src="images/productos/prod/bot-nina_1L.png">
+                    <span class="txt_blue txt_middle auto">Botella 500 ml<br></span>
+                    <div class="btn_ver" onclick="cargar('#change','ficha.html'); asigna('producto_9');"></div>
+                </div>
+                
+                <div class="elem f_left izq nina">
+                    <img  class="auto" src="images/productos/prod/bot-nina_1L.png">
+                    <span class="txt_blue txt_middle auto">Botella 1L<br></span>
+                    <div class="btn_ver" onclick="cargar('#change','ficha.html'); asigna('producto_10');"></div>
+                </div>
+                
+                <div class="elem f_left izq nina">
+                    <img  class="auto" src="images/productos/prod/bot-nina_20L.png">
+                    <span class="txt_blue txt_middle auto">Bidon 20L<br></span>
+                    <div class="btn_ver" onclick="cargar('#change','ficha.html'); asigna('producto_11');"></div>
+                </div>
+                
+                <div class="elem f_left izq colon">
+                    <img  class="auto" src="images/productos/prod/bot-colon_890ml.png">
+                    <span class="txt_blue txt_middle auto">Botella 890 ml<br></span>
+                    <div class="btn_ver" onclick="cargar('#change','ficha.html'); asigna('producto_12');"></div>
+                </div>
+                
+                <div class="elem f_left izq colon">
+                    <img  class="auto" src="images/productos/prod/bot-colon_1L.png">
+                    <span class="txt_blue txt_middle auto">Botella 1L<br></span>
+                    <div class="btn_ver" onclick="cargar('#change','ficha.html'); asigna('producto_13');"></div>
+                </div>
+              
+            </div>
+
+        </div>
+</div>
+    <br><br>
