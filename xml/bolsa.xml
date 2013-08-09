@@ -15,24 +15,7 @@
       <colonia>pedregal</colonia>
       <cp>07890</cp>
     </direccion>
-    <email>rulo@aceitera.com</email>
-  </vacante>
-  <vacante>
-    <id>vacante_5</id>
-    <puesto>Supervisor</puesto>
-    <escolaridad>Ingeniería</escolaridad>
-    <requisitos>
-      <edad>40 años</edad>
-      <estado>Soltero</estado>
-      <experiencia>9 años</experiencia>
-      <sexo>Femenino</sexo>
-    </requisitos>
-    <direccion>
-      <calle>Prizo</calle>
-      <colonia>Sagitario</colonia>
-      <cp>78999</cp>
-    </direccion>
-    <email>any_141004@hotmail.com</email>
+    <email>r@aceitera.com</email>
   </vacante>
   <vacante>
     <id>vacante_6</id>
@@ -93,7 +76,7 @@
       <edad>34 años</edad>
       <estado>Casado</estado>
       <experiencia>2 años</experiencia>
-      <sexo>Masculin</sexo>
+      <sexo>Masculinoo</sexo>
     </requisitos>
     <direccion>
       <calle>90</calle>

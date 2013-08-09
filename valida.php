@@ -9,6 +9,6 @@ if (conexiones($usuario, $clave)){
 	header('Location:inicio.php');
 } else {
 	//si no es valido volvemos al formulario inicial
-	header('Location: ingresar.php');
+	header('Location: ingresar.php?msg=Usuario Incorrecto');
 }
 ?>

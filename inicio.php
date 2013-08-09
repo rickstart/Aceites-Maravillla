@@ -81,7 +81,7 @@ switch ($action)
         $oferta->delete();
         die; // no quiero mostrar nada cuando borra , solo devuelve el control.
         break;
-    case 'publish':
+    case 'publisher':
         
         $oferta=new Oferta();
         $oferta->exportXml();
@@ -102,7 +102,7 @@ else
 else {
     //si el usuario no es verificado volvera al formulario de ingreso
     echo "Usuario no identificado";
-    header('Location: ingresar.html');
+    header('Location: ingresar.php');
 
 }
 

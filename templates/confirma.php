@@ -3,7 +3,7 @@
 <form name ="oferta" id="oferta" method="POST" action="inicio.php"  onsubmit="return Valida(this);" >
   
     <div class="buttonsBar">
-        <input id="cancel" type="button" value ="Cerrar" />
+        <input id="cancel" type="button" class="cancel" value ="Cerrar" />
         
     </div>
 </form>

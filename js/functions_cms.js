@@ -41,7 +41,7 @@ $(document).ready(function(){ //cuando el html fue cargado iniciar
 
     $('#publish').live('click',function(){
         params={};
-        params.action="publish";
+        params.action="publisher";
         
         $('#popupbox').load('inicio.php', params,function(){
             $('#block').show();
@@ -76,7 +76,7 @@ $(document).ready(function(){ //cuando el html fue cargado iniciar
 
     // boton cancelar, uso live en lugar de bind para que tome cualquier boton
     // nuevo que pueda aparecer
-    $('#cancel').live('click',function(){
+    $('#cancel').live('click','.item',function(event){
         $('#block').hide();
         $('#popupbox').hide();
     })

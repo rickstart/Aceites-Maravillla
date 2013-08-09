@@ -11,6 +11,12 @@
     <link rel="stylesheet" type="text/css" href="css/screen.css" />
     <!-- incluyo mis estilos css -->
     <link rel="stylesheet" type="text/css" href="css/cms.css" />
+    <!-- no cache headers 
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="no-cache">
+    <meta http-equiv="Expires" content="-1">
+    <meta http-equiv="Cache-Control" content="no-cache">
+    end no cache headers -->
     <meta charset="utf-8">
 </head>
 <body>

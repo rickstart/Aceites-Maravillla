@@ -42,7 +42,7 @@
 </table>
 
 <div class="bar">
-    <a id="publish" class="button" href="javascript:void(0);" >Publicar</a>
+    <a id="publish" class="button publish" href="javascript:void(0);" >Publicar</a>
 </div>
 
 

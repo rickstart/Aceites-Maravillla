@@ -4,10 +4,12 @@ include_once("oferta.php");
 function conexiones($usuario, $clave) {
 
 	$conexion= new sQuery();
-	$sql = "SELECT * FROM `tbl_user` WHERE `nombre`='$usuario' AND `password`='$clave'";
+	$sql = "select * from tbl_user where nombre='".$usuario."' and password='".$clave."';";
+	//echo $sql;
+	$rows=$conexion->executeQueryRow($sql);
 	
 	
-	if ($conexion->executeQuery($sql)!=0){
+	if ($rows!=0){
 		//inicio de sesion
 		session_start();
 		//configurar un elemento usuario dentro del arreglo global $_SESSION
